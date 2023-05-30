@@ -1,0 +1,86 @@
+	
+	CAPITULO  I		
+					FUNDAMENTOS DE ESTRUCTURA DE DATOS 
+	
+	CONCEPTO BASICOS
+			
+			Dato: Son elementos de informacion bruto  no orcesados ejemplo: horas de trabajo 
+			, tasa salarial ;
+			
+			una vez que son procesados por la computadora se les llama informacion
+
+	
+	OPERACIONES QUE SE PUEDEN REALIZAR SOBRE LA E.D. : 
+		*Busqueda
+		*ordenamiento
+		*Apareo
+		*Navegar por la estructura
+		*Consulta 
+		*Modificacion
+	PRESENTACION DE UNA ESTRUCTURA DE DATOS 
+		-->Secuencial :arreglos , archivos 
+		-->Encadenada  : listas, arboles , pilas , colas ,grafos .		static char[100];
+		
+	TIPOS DE DATOS ABSTRACTOS 
+	 especificadores de acceso : private , public, protected : -->para que cualquiera pueda acceder(publico) , para que solo la clase
+	derivada pueda usar (protected:).
+	
+	INTERFAZ maneja el ciente .
+	
+	un UTAD tiene prioridades :
+	*Encasulamiento : la informacion referente a la definicion del tipo y todas a operaciones que se pueden realizar sobre el mismo
+	*Ocultaciones de informacion 
+
+	CLASIFICAION DE LOS TDA 
+	Los tipos de abstractos de datos basicos se clasifican habitualmente , atendiendo a su estructura en lineas y no lineales
+	En una estructura lineal los elementos tiene una relacion 1 a 1 como ser listas , pilas y colas .
+	En una estructura no lineal los elementos tienen una relacion 1a M , M a 1 o M a M como ser arboles y grafos .
+
+
+		-->TAD lineales
+	1-Listas 
+		una forma de almacenar , elementos consiste en poner en una lista lineal , guardar elementos del mismo tipo;
+		La lista no tiene nodos se la denomina ista vacia , comoyo se se que esta vacia es cuando la cabeza esta apuntando a NULL;
+	2.-Colas 
+		Es una lista en la que los elementos se insertan por un extremo (llamado fondo) En estructura de edatos el primer elemento que entra 
+		es el primero en salir 
+	3.-Pilas
+		Es una estructura de datos en la cual todas las inserciones y las eleminaciones se realizan por el mismo extremo , denominada cima  de 
+		la pila .En una pila , el ultimo elemento en entrar es el primero en salir , al contrario o que pasa en las  colas .
+
+		-->TAD no lineales
+	1.-Arboles
+		Es un TAD  que organiza sus elemtnos (nodos) de fomra jerarquica , si una rama va del nodno al nodo b , entonces a es el padre de b
+		.Todos los nodos tienen un padre , excepto el nodo principal , denomiado raiz de arbol\
+	2.-Arboles binarios de busqueda
+		Es una variacion del TAD arbll .Se trata de aquello arboles binarios (cada nodo tiene como maximo ) en los cuales todo los datos del
+		Subarbol izquierdo  son menores que los datos del nod y los datos del subarbol derecho son mayores
+	3.-Grafos 
+		Los grafos se utilizan para representar relaciones arbitrarias entre datos. En su representacion , cada elemento  del problema forma
+		un nodo . La relacion entre nodos forma una arista  que puede ser dirigida 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

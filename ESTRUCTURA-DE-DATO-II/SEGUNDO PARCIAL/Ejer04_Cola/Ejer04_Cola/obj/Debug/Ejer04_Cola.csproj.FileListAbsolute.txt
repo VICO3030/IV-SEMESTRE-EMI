@@ -1,0 +1,10 @@
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Ejer04_Cola\Ejer04_Cola\bin\Debug\Ejer04_Cola.exe.config
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Ejer04_Cola\Ejer04_Cola\bin\Debug\Ejer04_Cola.exe
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Ejer04_Cola\Ejer04_Cola\bin\Debug\Ejer04_Cola.pdb
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Ejer04_Cola\Ejer04_Cola\obj\Debug\Ejer04_Cola.csprojResolveAssemblyReference.cache
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Ejer04_Cola\Ejer04_Cola\obj\Debug\Ejer04_Cola.Form1.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Ejer04_Cola\Ejer04_Cola\obj\Debug\Ejer04_Cola.frm_imprimiendo.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Ejer04_Cola\Ejer04_Cola\obj\Debug\Ejer04_Cola.Properties.Resources.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Ejer04_Cola\Ejer04_Cola\obj\Debug\Ejer04_Cola.csproj.GenerateResource.Cache
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Ejer04_Cola\Ejer04_Cola\obj\Debug\Ejer04_Cola.exe
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Ejer04_Cola\Ejer04_Cola\obj\Debug\Ejer04_Cola.pdb

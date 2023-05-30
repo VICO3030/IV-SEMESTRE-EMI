@@ -1,0 +1,33 @@
+C:\Users\MSI CORE I7\Documents\VS Comunity\Listas Doblemente enlazadas\Listas Doblemente enlazadas\bin\Debug\Listas Doblemente enlazadas.exe.config
+C:\Users\MSI CORE I7\Documents\VS Comunity\Listas Doblemente enlazadas\Listas Doblemente enlazadas\bin\Debug\Listas Doblemente enlazadas.exe
+C:\Users\MSI CORE I7\Documents\VS Comunity\Listas Doblemente enlazadas\Listas Doblemente enlazadas\bin\Debug\Listas Doblemente enlazadas.pdb
+C:\Users\MSI CORE I7\Documents\VS Comunity\Listas Doblemente enlazadas\Listas Doblemente enlazadas\obj\Debug\Listas Doblemente enlazadas.csproj.AssemblyReference.cache
+C:\Users\MSI CORE I7\Documents\VS Comunity\Listas Doblemente enlazadas\Listas Doblemente enlazadas\obj\Debug\Listas Doblemente enlazadas.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI CORE I7\Documents\VS Comunity\Listas Doblemente enlazadas\Listas Doblemente enlazadas\obj\Debug\Listas_Doblemente_enlazadas.FrmCarrera.resources
+C:\Users\MSI CORE I7\Documents\VS Comunity\Listas Doblemente enlazadas\Listas Doblemente enlazadas\obj\Debug\Listas_Doblemente_enlazadas.FrmCiclistsa.resources
+C:\Users\MSI CORE I7\Documents\VS Comunity\Listas Doblemente enlazadas\Listas Doblemente enlazadas\obj\Debug\Listas_Doblemente_enlazadas.Properties.Resources.resources
+C:\Users\MSI CORE I7\Documents\VS Comunity\Listas Doblemente enlazadas\Listas Doblemente enlazadas\obj\Debug\Listas Doblemente enlazadas.csproj.GenerateResource.cache
+C:\Users\MSI CORE I7\Documents\VS Comunity\Listas Doblemente enlazadas\Listas Doblemente enlazadas\obj\Debug\Listas Doblemente enlazadas.csproj.CoreCompileInputs.cache
+C:\Users\MSI CORE I7\Documents\VS Comunity\Listas Doblemente enlazadas\Listas Doblemente enlazadas\obj\Debug\Listas Doblemente enlazadas.exe
+C:\Users\MSI CORE I7\Documents\VS Comunity\Listas Doblemente enlazadas\Listas Doblemente enlazadas\obj\Debug\Listas Doblemente enlazadas.pdb
+C:\Users\MSI CORE I7\Documents\VS Comunity\Listas Doblemente enlazadas\Listas Doblemente enlazadas\obj\Debug\Listas_Doblemente_enlazadas.FrmPrincipal.resources
+C:\Users\MSI CORE I7\Documents\VS Comunity\Listas Doblemente enlazadas\Listas Doblemente enlazadas\obj\Debug\Listas_Doblemente_enlazadas.FrmMostrarCiclista.resources
+C:\Users\MSI CORE I7\Documents\VS Comunity\Listas Doblemente enlazadas\Listas Doblemente enlazadas\obj\Debug\Listas_Doblemente_enlazadas.FrmBuscatyEliminar.resources
+C:\Users\MSI CORE I7\Documents\VS Comunity\Listas Doblemente enlazadas\Listas Doblemente enlazadas\obj\Debug\Listas_Doblemente_enlazadas.frmMostrarCarrera.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Listas Doblemente enlazadas\Listas Doblemente enlazadas\bin\Debug\Listas Doblemente enlazadas.exe.config
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Listas Doblemente enlazadas\Listas Doblemente enlazadas\obj\Debug\Listas Doblemente enlazadas.exe
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Listas Doblemente enlazadas\Listas Doblemente enlazadas\obj\Debug\Listas Doblemente enlazadas.pdb
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Listas Doblemente enlazadas\Listas Doblemente enlazadas\bin\Debug\Listas Doblemente enlazadas.exe
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Listas Doblemente enlazadas\Listas Doblemente enlazadas\bin\Debug\Listas Doblemente enlazadas.pdb
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Listas Doblemente enlazadas\Listas Doblemente enlazadas\obj\Debug\Listas Doblemente enlazadas.csprojResolveAssemblyReference.cache
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Listas Doblemente enlazadas\Listas Doblemente enlazadas\obj\Debug\Listas_Doblemente_enlazadas.FrmPrincipal.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Listas Doblemente enlazadas\Listas Doblemente enlazadas\obj\Debug\Listas_Doblemente_enlazadas.FrmBuscatyEliminar.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Listas Doblemente enlazadas\Listas Doblemente enlazadas\obj\Debug\Listas_Doblemente_enlazadas.FrmCarrera.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Listas Doblemente enlazadas\Listas Doblemente enlazadas\obj\Debug\Listas_Doblemente_enlazadas.FrmCiclistsa.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Listas Doblemente enlazadas\Listas Doblemente enlazadas\obj\Debug\Listas_Doblemente_enlazadas.frmMostrarCarrera.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Listas Doblemente enlazadas\Listas Doblemente enlazadas\obj\Debug\Listas_Doblemente_enlazadas.FrmMostrarCiclista.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Listas Doblemente enlazadas\Listas Doblemente enlazadas\obj\Debug\Listas_Doblemente_enlazadas.Properties.Resources.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Listas Doblemente enlazadas\Listas Doblemente enlazadas\obj\Debug\Listas Doblemente enlazadas.csproj.GenerateResource.Cache
+C:\Users\VICTOR\Documents\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Listas Doblemente enlazadas\Listas Doblemente enlazadas\bin\Debug\Listas Doblemente enlazadas.exe.config
+C:\Users\VICTOR\Documents\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Listas Doblemente enlazadas\Listas Doblemente enlazadas\obj\Debug\Listas Doblemente enlazadas.exe
+C:\Users\VICTOR\Documents\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Listas Doblemente enlazadas\Listas Doblemente enlazadas\obj\Debug\Listas Doblemente enlazadas.pdb

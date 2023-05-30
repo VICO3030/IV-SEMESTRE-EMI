@@ -1,0 +1,9 @@
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\prueba\prueba\bin\Debug\prueba.exe.config
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\prueba\prueba\bin\Debug\prueba.exe
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\prueba\prueba\bin\Debug\prueba.pdb
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\prueba\prueba\obj\Debug\prueba.Properties.Resources.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\prueba\prueba\obj\Debug\prueba.csproj.GenerateResource.Cache
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\prueba\prueba\obj\Debug\prueba.exe
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\prueba\prueba\obj\Debug\prueba.pdb
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\prueba\prueba\obj\Debug\prueba.Form1.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\prueba\prueba\obj\Debug\prueba.csprojResolveAssemblyReference.cache

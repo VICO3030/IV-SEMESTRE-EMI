@@ -1,0 +1,22 @@
+C:\Users\Erika\Desktop\4to semestre\Estructura de datos II -Lic.Lizbeth\examenes\1 parcial\EJERCICIO 1 -examen1p\obj\Debug\EJERCICIO 1 -examen1p.csproj.AssemblyReference.cache
+C:\Users\Erika\Desktop\4to semestre\Estructura de datos II -Lic.Lizbeth\examenes\1 parcial\EJERCICIO 1 -examen1p\obj\Debug\EJERCICIO 1 -examen1p.csproj.SuggestedBindingRedirects.cache
+C:\Users\Erika\Desktop\4to semestre\Estructura de datos II -Lic.Lizbeth\examenes\1 parcial\EJERCICIO 1 -examen1p\obj\Debug\EJERCICIO_1__examen1p.frm_ejercicio2.resources
+C:\Users\Erika\Desktop\4to semestre\Estructura de datos II -Lic.Lizbeth\examenes\1 parcial\EJERCICIO 1 -examen1p\obj\Debug\EJERCICIO_1__examen1p.Frm_lista.resources
+C:\Users\Erika\Desktop\4to semestre\Estructura de datos II -Lic.Lizbeth\examenes\1 parcial\EJERCICIO 1 -examen1p\obj\Debug\EJERCICIO_1__examen1p.Properties.Resources.resources
+C:\Users\Erika\Desktop\4to semestre\Estructura de datos II -Lic.Lizbeth\examenes\1 parcial\EJERCICIO 1 -examen1p\obj\Debug\EJERCICIO 1 -examen1p.csproj.GenerateResource.cache
+C:\Users\Erika\Desktop\4to semestre\Estructura de datos II -Lic.Lizbeth\examenes\1 parcial\EJERCICIO 1 -examen1p\obj\Debug\EJERCICIO 1 -examen1p.csproj.CoreCompileInputs.cache
+C:\Users\Erika\Desktop\4to semestre\Estructura de datos II -Lic.Lizbeth\examenes\1 parcial\EJERCICIO 1 -examen1p\bin\Debug\EJERCICIO 1 -examen1p.exe.config
+C:\Users\Erika\Desktop\4to semestre\Estructura de datos II -Lic.Lizbeth\examenes\1 parcial\EJERCICIO 1 -examen1p\bin\Debug\EJERCICIO 1 -examen1p.exe
+C:\Users\Erika\Desktop\4to semestre\Estructura de datos II -Lic.Lizbeth\examenes\1 parcial\EJERCICIO 1 -examen1p\bin\Debug\EJERCICIO 1 -examen1p.pdb
+C:\Users\Erika\Desktop\4to semestre\Estructura de datos II -Lic.Lizbeth\examenes\1 parcial\EJERCICIO 1 -examen1p\obj\Debug\EJERCICIO 1 -examen1p.exe
+C:\Users\Erika\Desktop\4to semestre\Estructura de datos II -Lic.Lizbeth\examenes\1 parcial\EJERCICIO 1 -examen1p\obj\Debug\EJERCICIO 1 -examen1p.pdb
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRIMER PARCIAL\EXAMEN\EJERCICIO 1 -examen1p\bin\Debug\EJERCICIO 1 -examen1p.exe.config
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRIMER PARCIAL\EXAMEN\EJERCICIO 1 -examen1p\obj\Debug\EJERCICIO 1 -examen1p.exe
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRIMER PARCIAL\EXAMEN\EJERCICIO 1 -examen1p\obj\Debug\EJERCICIO 1 -examen1p.pdb
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRIMER PARCIAL\EXAMEN\EJERCICIO 1 -examen1p\bin\Debug\EJERCICIO 1 -examen1p.exe
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRIMER PARCIAL\EXAMEN\EJERCICIO 1 -examen1p\bin\Debug\EJERCICIO 1 -examen1p.pdb
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRIMER PARCIAL\EXAMEN\EJERCICIO 1 -examen1p\obj\Debug\EJERCICIO 1 -examen1p.csprojResolveAssemblyReference.cache
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRIMER PARCIAL\EXAMEN\EJERCICIO 1 -examen1p\obj\Debug\EJERCICIO_1__examen1p.frm_ejercicio2.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRIMER PARCIAL\EXAMEN\EJERCICIO 1 -examen1p\obj\Debug\EJERCICIO_1__examen1p.Frm_lista.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRIMER PARCIAL\EXAMEN\EJERCICIO 1 -examen1p\obj\Debug\EJERCICIO_1__examen1p.Properties.Resources.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRIMER PARCIAL\EXAMEN\EJERCICIO 1 -examen1p\obj\Debug\EJERCICIO 1 -examen1p.csproj.GenerateResource.Cache

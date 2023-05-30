@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32630.192
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Listas Doblemente enlazadas", "Listas Doblemente enlazadas\Listas Doblemente enlazadas.csproj", "{70F95A99-8157-4879-82D6-3E7C3B0B8E1D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{70F95A99-8157-4879-82D6-3E7C3B0B8E1D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{70F95A99-8157-4879-82D6-3E7C3B0B8E1D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{70F95A99-8157-4879-82D6-3E7C3B0B8E1D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{70F95A99-8157-4879-82D6-3E7C3B0B8E1D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B84A3640-AC99-4863-8380-F8579B43BD40}
+	EndGlobalSection
+EndGlobal

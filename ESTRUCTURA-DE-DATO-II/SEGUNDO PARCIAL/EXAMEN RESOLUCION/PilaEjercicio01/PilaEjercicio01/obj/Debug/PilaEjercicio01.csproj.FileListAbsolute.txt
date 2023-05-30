@@ -1,0 +1,9 @@
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\EXAMEN RESOLUCION\PilaEjercicio01\PilaEjercicio01\bin\Debug\PilaEjercicio01.exe.config
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\EXAMEN RESOLUCION\PilaEjercicio01\PilaEjercicio01\bin\Debug\PilaEjercicio01.exe
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\EXAMEN RESOLUCION\PilaEjercicio01\PilaEjercicio01\bin\Debug\PilaEjercicio01.pdb
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\EXAMEN RESOLUCION\PilaEjercicio01\PilaEjercicio01\obj\Debug\PilaEjercicio01.csprojResolveAssemblyReference.cache
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\EXAMEN RESOLUCION\PilaEjercicio01\PilaEjercicio01\obj\Debug\PilaEjercicio01.EJERCICIO01.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\EXAMEN RESOLUCION\PilaEjercicio01\PilaEjercicio01\obj\Debug\PilaEjercicio01.Properties.Resources.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\EXAMEN RESOLUCION\PilaEjercicio01\PilaEjercicio01\obj\Debug\PilaEjercicio01.csproj.GenerateResource.Cache
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\EXAMEN RESOLUCION\PilaEjercicio01\PilaEjercicio01\obj\Debug\PilaEjercicio01.exe
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\EXAMEN RESOLUCION\PilaEjercicio01\PilaEjercicio01\obj\Debug\PilaEjercicio01.pdb

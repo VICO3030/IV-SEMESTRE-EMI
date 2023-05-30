@@ -1,0 +1,57 @@
+D:\Estructura de Datos II\Arbol\Arbol\bin\Debug\Arbol.exe.config
+D:\Estructura de Datos II\Arbol\Arbol\bin\Debug\Arbol.exe
+D:\Estructura de Datos II\Arbol\Arbol\bin\Debug\Arbol.pdb
+D:\Estructura de Datos II\Arbol\Arbol\obj\Debug\Arbol.csproj.AssemblyReference.cache
+D:\Estructura de Datos II\Arbol\Arbol\obj\Debug\Arbol.Properties.Resources.resources
+D:\Estructura de Datos II\Arbol\Arbol\obj\Debug\Arbol.csproj.GenerateResource.cache
+D:\Estructura de Datos II\Arbol\Arbol\obj\Debug\Arbol.csproj.CoreCompileInputs.cache
+D:\Estructura de Datos II\Arbol\Arbol\obj\Debug\Arbol.exe
+D:\Estructura de Datos II\Arbol\Arbol\obj\Debug\Arbol.pdb
+D:\Estructura de Datos II\Arbol\Arbol\obj\Debug\Arbol.Form1.resources
+D:\Estructura de Datos II\Arbol\Arbol\obj\Debug\Arbol.RECORRIDO.resources
+D:\Estructura de Datos II\Arbol\Arbol\obj\Debug\Arbol.Hojas.resources
+D:\Estructura de Datos II\Arbol\Arbol\obj\Debug\Arbol.Busqueda.resources
+D:\Estructura de Datos II\Arbol\Arbol\obj\Debug\Arbol.Eliminar.resources
+C:\Users\INGRIDH\Desktop\Estructura de Datos II\Arbol\Arbol\bin\Debug\Arbol.exe.config
+C:\Users\INGRIDH\Desktop\Estructura de Datos II\Arbol\Arbol\bin\Debug\Arbol.exe
+C:\Users\INGRIDH\Desktop\Estructura de Datos II\Arbol\Arbol\bin\Debug\Arbol.pdb
+C:\Users\INGRIDH\Desktop\Estructura de Datos II\Arbol\Arbol\obj\Debug\Arbol.csproj.AssemblyReference.cache
+C:\Users\INGRIDH\Desktop\Estructura de Datos II\Arbol\Arbol\obj\Debug\Arbol.csproj.SuggestedBindingRedirects.cache
+C:\Users\INGRIDH\Desktop\Estructura de Datos II\Arbol\Arbol\obj\Debug\Arbol.Busqueda.resources
+C:\Users\INGRIDH\Desktop\Estructura de Datos II\Arbol\Arbol\obj\Debug\Arbol.Eliminar.resources
+C:\Users\INGRIDH\Desktop\Estructura de Datos II\Arbol\Arbol\obj\Debug\Arbol.Form1.resources
+C:\Users\INGRIDH\Desktop\Estructura de Datos II\Arbol\Arbol\obj\Debug\Arbol.Hojas.resources
+C:\Users\INGRIDH\Desktop\Estructura de Datos II\Arbol\Arbol\obj\Debug\Arbol.Properties.Resources.resources
+C:\Users\INGRIDH\Desktop\Estructura de Datos II\Arbol\Arbol\obj\Debug\Arbol.RECORRIDO.resources
+C:\Users\INGRIDH\Desktop\Estructura de Datos II\Arbol\Arbol\obj\Debug\Arbol.csproj.GenerateResource.cache
+C:\Users\INGRIDH\Desktop\Estructura de Datos II\Arbol\Arbol\obj\Debug\Arbol.csproj.CoreCompileInputs.cache
+C:\Users\INGRIDH\Desktop\Estructura de Datos II\Arbol\Arbol\obj\Debug\Arbol.exe
+C:\Users\INGRIDH\Desktop\Estructura de Datos II\Arbol\Arbol\obj\Debug\Arbol.pdb
+C:\4to SEMESTRE\Estructura de datos II\3er Parcial\Arbol\bin\Debug\Arbol.exe.config
+C:\4to SEMESTRE\Estructura de datos II\3er Parcial\Arbol\bin\Debug\Arbol.exe
+C:\4to SEMESTRE\Estructura de datos II\3er Parcial\Arbol\bin\Debug\Arbol.pdb
+C:\4to SEMESTRE\Estructura de datos II\3er Parcial\Arbol\obj\Debug\Arbol.csproj.AssemblyReference.cache
+C:\4to SEMESTRE\Estructura de datos II\3er Parcial\Arbol\obj\Debug\Arbol.csproj.SuggestedBindingRedirects.cache
+C:\4to SEMESTRE\Estructura de datos II\3er Parcial\Arbol\obj\Debug\Arbol.Busqueda.resources
+C:\4to SEMESTRE\Estructura de datos II\3er Parcial\Arbol\obj\Debug\Arbol.Eliminar.resources
+C:\4to SEMESTRE\Estructura de datos II\3er Parcial\Arbol\obj\Debug\Arbol.Form1.resources
+C:\4to SEMESTRE\Estructura de datos II\3er Parcial\Arbol\obj\Debug\Arbol.Hojas.resources
+C:\4to SEMESTRE\Estructura de datos II\3er Parcial\Arbol\obj\Debug\Arbol.Properties.Resources.resources
+C:\4to SEMESTRE\Estructura de datos II\3er Parcial\Arbol\obj\Debug\Arbol.RECORRIDO.resources
+C:\4to SEMESTRE\Estructura de datos II\3er Parcial\Arbol\obj\Debug\Arbol.csproj.GenerateResource.cache
+C:\4to SEMESTRE\Estructura de datos II\3er Parcial\Arbol\obj\Debug\Arbol.csproj.CoreCompileInputs.cache
+C:\4to SEMESTRE\Estructura de datos II\3er Parcial\Arbol\obj\Debug\Arbol.exe
+C:\4to SEMESTRE\Estructura de datos II\3er Parcial\Arbol\obj\Debug\Arbol.pdb
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\FINAL PARCIAL\Arbol\bin\Debug\Arbol.exe.config
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\FINAL PARCIAL\Arbol\obj\Debug\Arbol.exe
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\FINAL PARCIAL\Arbol\obj\Debug\Arbol.pdb
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\FINAL PARCIAL\Arbol\bin\Debug\Arbol.exe
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\FINAL PARCIAL\Arbol\bin\Debug\Arbol.pdb
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\FINAL PARCIAL\Arbol\obj\Debug\Arbol.csprojResolveAssemblyReference.cache
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\FINAL PARCIAL\Arbol\obj\Debug\Arbol.Busqueda.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\FINAL PARCIAL\Arbol\obj\Debug\Arbol.Eliminar.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\FINAL PARCIAL\Arbol\obj\Debug\Arbol.Form1.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\FINAL PARCIAL\Arbol\obj\Debug\Arbol.Hojas.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\FINAL PARCIAL\Arbol\obj\Debug\Arbol.Properties.Resources.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\FINAL PARCIAL\Arbol\obj\Debug\Arbol.RECORRIDO.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\FINAL PARCIAL\Arbol\obj\Debug\Arbol.csproj.GenerateResource.Cache

@@ -1,0 +1,14 @@
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\Lista_Doblemente_Enlazadas\Lista_Doblemente_Enlazadas\obj\Debug\Doble_Enlazadas.csprojResolveAssemblyReference.cache
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\Lista_Doblemente_Enlazadas\Lista_Doblemente_Enlazadas\obj\Debug\Lista_Doblemente_Enlazadas.Properties.Resources.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\Lista_Doblemente_Enlazadas\Lista_Doblemente_Enlazadas\obj\Debug\Doble_Enlazadas.csproj.GenerateResource.Cache
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\Lista_Doblemente_Enlazadas\Lista_Doblemente_Enlazadas\bin\Debug\Lista_Doblemente_Enlazadas.exe.config
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\Lista_Doblemente_Enlazadas\Lista_Doblemente_Enlazadas\bin\Debug\Lista_Doblemente_Enlazadas.exe
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\Lista_Doblemente_Enlazadas\Lista_Doblemente_Enlazadas\bin\Debug\Lista_Doblemente_Enlazadas.pdb
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\Lista_Doblemente_Enlazadas\Lista_Doblemente_Enlazadas\obj\Debug\Lista_Doblemente_Enlazadas.Frm_ciclista.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\Lista_Doblemente_Enlazadas\Lista_Doblemente_Enlazadas\obj\Debug\Lista_Doblemente_Enlazadas.exe
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\Lista_Doblemente_Enlazadas\Lista_Doblemente_Enlazadas\obj\Debug\Lista_Doblemente_Enlazadas.pdb
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\Lista_Doblemente_Enlazadas\Lista_Doblemente_Enlazadas\obj\Debug\Lista_Doblemente_Enlazadas.Frm_Carrera.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\Lista_Doblemente_Enlazadas\Lista_Doblemente_Enlazadas\obj\Debug\Lista_Doblemente_Enlazadas.Frm_principal.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\EJERCICIO03\Lista_Doblemente_Enlazadas\bin\Debug\Lista_Doblemente_Enlazadas.exe.config
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\EJERCICIO03\Lista_Doblemente_Enlazadas\obj\Debug\Lista_Doblemente_Enlazadas.exe
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\EJERCICIO03\Lista_Doblemente_Enlazadas\obj\Debug\Lista_Doblemente_Enlazadas.pdb

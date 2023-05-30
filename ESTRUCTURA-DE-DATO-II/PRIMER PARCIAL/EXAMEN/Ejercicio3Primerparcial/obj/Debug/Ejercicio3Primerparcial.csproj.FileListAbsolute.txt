@@ -1,0 +1,20 @@
+C:\Users\Windows 10\source\repos\Ejercicio3Primerparcial\obj\Debug\Ejercicio3Primerparcial.csproj.AssemblyReference.cache
+C:\Users\Windows 10\source\repos\Ejercicio3Primerparcial\obj\Debug\Ejercicio3Primerparcial.csproj.SuggestedBindingRedirects.cache
+C:\Users\Windows 10\source\repos\Ejercicio3Primerparcial\obj\Debug\Ejercicio3Primerparcial.Form1.resources
+C:\Users\Windows 10\source\repos\Ejercicio3Primerparcial\obj\Debug\Ejercicio3Primerparcial.Properties.Resources.resources
+C:\Users\Windows 10\source\repos\Ejercicio3Primerparcial\obj\Debug\Ejercicio3Primerparcial.csproj.GenerateResource.cache
+C:\Users\Windows 10\source\repos\Ejercicio3Primerparcial\obj\Debug\Ejercicio3Primerparcial.csproj.CoreCompileInputs.cache
+C:\Users\Windows 10\source\repos\Ejercicio3Primerparcial\bin\Debug\Ejercicio3Primerparcial.exe.config
+C:\Users\Windows 10\source\repos\Ejercicio3Primerparcial\bin\Debug\Ejercicio3Primerparcial.exe
+C:\Users\Windows 10\source\repos\Ejercicio3Primerparcial\bin\Debug\Ejercicio3Primerparcial.pdb
+C:\Users\Windows 10\source\repos\Ejercicio3Primerparcial\obj\Debug\Ejercicio3Primerparcial.exe
+C:\Users\Windows 10\source\repos\Ejercicio3Primerparcial\obj\Debug\Ejercicio3Primerparcial.pdb
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRIMER PARCIAL\EXAMEN\Ejercicio3Primerparcial\bin\Debug\Ejercicio3Primerparcial.exe.config
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRIMER PARCIAL\EXAMEN\Ejercicio3Primerparcial\obj\Debug\Ejercicio3Primerparcial.exe
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRIMER PARCIAL\EXAMEN\Ejercicio3Primerparcial\obj\Debug\Ejercicio3Primerparcial.pdb
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRIMER PARCIAL\EXAMEN\Ejercicio3Primerparcial\bin\Debug\Ejercicio3Primerparcial.exe
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRIMER PARCIAL\EXAMEN\Ejercicio3Primerparcial\bin\Debug\Ejercicio3Primerparcial.pdb
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRIMER PARCIAL\EXAMEN\Ejercicio3Primerparcial\obj\Debug\Ejercicio3Primerparcial.csprojResolveAssemblyReference.cache
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRIMER PARCIAL\EXAMEN\Ejercicio3Primerparcial\obj\Debug\Ejercicio3Primerparcial.Form1.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRIMER PARCIAL\EXAMEN\Ejercicio3Primerparcial\obj\Debug\Ejercicio3Primerparcial.Properties.Resources.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRIMER PARCIAL\EXAMEN\Ejercicio3Primerparcial\obj\Debug\Ejercicio3Primerparcial.csproj.GenerateResource.Cache

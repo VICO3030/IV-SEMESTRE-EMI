@@ -1,0 +1,29 @@
+C:\Users\pc\Desktop\ESTRUCTURA DE DATOS II\PREGUNTA_4\PREGUNTA_4\bin\Debug\PREGUNTA_4.exe.config
+C:\Users\pc\Desktop\ESTRUCTURA DE DATOS II\PREGUNTA_4\PREGUNTA_4\bin\Debug\PREGUNTA_4.exe
+C:\Users\pc\Desktop\ESTRUCTURA DE DATOS II\PREGUNTA_4\PREGUNTA_4\bin\Debug\PREGUNTA_4.pdb
+C:\Users\pc\Desktop\ESTRUCTURA DE DATOS II\PREGUNTA_4\PREGUNTA_4\obj\Debug\PREGUNTA_4.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\ESTRUCTURA DE DATOS II\PREGUNTA_4\PREGUNTA_4\obj\Debug\PREGUNTA_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\ESTRUCTURA DE DATOS II\PREGUNTA_4\PREGUNTA_4\obj\Debug\PREGUNTA_4.Properties.Resources.resources
+C:\Users\pc\Desktop\ESTRUCTURA DE DATOS II\PREGUNTA_4\PREGUNTA_4\obj\Debug\PREGUNTA_4.csproj.GenerateResource.cache
+C:\Users\pc\Desktop\ESTRUCTURA DE DATOS II\PREGUNTA_4\PREGUNTA_4\obj\Debug\PREGUNTA_4.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\ESTRUCTURA DE DATOS II\PREGUNTA_4\PREGUNTA_4\obj\Debug\PREGUNTA_4.exe
+C:\Users\pc\Desktop\ESTRUCTURA DE DATOS II\PREGUNTA_4\PREGUNTA_4\obj\Debug\PREGUNTA_4.pdb
+C:\Users\pc\Desktop\ESTRUCTURA DE DATOS II\PREGUNTA_4\PREGUNTA_4\obj\Debug\PREGUNTA_4.frm_imprimir.resources
+C:\Users\pc\Desktop\ESTRUCTURA DE DATOS II\PREGUNTA_4\PREGUNTA_4\obj\Debug\PREGUNTA_4.Cola_Impresion.resources
+C:\Users\pc\Desktop\ESTRUCTURA DE DATOS II\PREGUNTA_4\PREGUNTA_4\obj\Debug\PREGUNTA_4.Frm.resources
+C:\Users\andy2\Downloads\PREGUNTA_4\PREGUNTA_4\PREGUNTA_4\bin\Debug\PREGUNTA_4.exe.config
+C:\Users\andy2\Downloads\PREGUNTA_4\PREGUNTA_4\PREGUNTA_4\bin\Debug\PREGUNTA_4.exe
+C:\Users\andy2\Downloads\PREGUNTA_4\PREGUNTA_4\PREGUNTA_4\bin\Debug\PREGUNTA_4.pdb
+C:\Users\andy2\Downloads\PREGUNTA_4\PREGUNTA_4\PREGUNTA_4\obj\Debug\PREGUNTA_4.csproj.AssemblyReference.cache
+C:\Users\andy2\Downloads\PREGUNTA_4\PREGUNTA_4\PREGUNTA_4\obj\Debug\PREGUNTA_4.csproj.SuggestedBindingRedirects.cache
+C:\Users\andy2\Downloads\PREGUNTA_4\PREGUNTA_4\PREGUNTA_4\obj\Debug\PREGUNTA_4.Cola_Impresion.resources
+C:\Users\andy2\Downloads\PREGUNTA_4\PREGUNTA_4\PREGUNTA_4\obj\Debug\PREGUNTA_4.Frm.resources
+C:\Users\andy2\Downloads\PREGUNTA_4\PREGUNTA_4\PREGUNTA_4\obj\Debug\PREGUNTA_4.frm_imprimir.resources
+C:\Users\andy2\Downloads\PREGUNTA_4\PREGUNTA_4\PREGUNTA_4\obj\Debug\PREGUNTA_4.Properties.Resources.resources
+C:\Users\andy2\Downloads\PREGUNTA_4\PREGUNTA_4\PREGUNTA_4\obj\Debug\PREGUNTA_4.csproj.GenerateResource.cache
+C:\Users\andy2\Downloads\PREGUNTA_4\PREGUNTA_4\PREGUNTA_4\obj\Debug\PREGUNTA_4.csproj.CoreCompileInputs.cache
+C:\Users\andy2\Downloads\PREGUNTA_4\PREGUNTA_4\PREGUNTA_4\obj\Debug\PREGUNTA_4.exe
+C:\Users\andy2\Downloads\PREGUNTA_4\PREGUNTA_4\PREGUNTA_4\obj\Debug\PREGUNTA_4.pdb
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\PREGUNTA_4\PREGUNTA_4\bin\Debug\PREGUNTA_4.exe.config
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\PREGUNTA_4\PREGUNTA_4\obj\Debug\PREGUNTA_4.exe
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\PREGUNTA_4\PREGUNTA_4\obj\Debug\PREGUNTA_4.pdb

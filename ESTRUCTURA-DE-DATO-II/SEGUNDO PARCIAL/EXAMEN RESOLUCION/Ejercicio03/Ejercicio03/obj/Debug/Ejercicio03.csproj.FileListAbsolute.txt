@@ -1,0 +1,9 @@
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\EXAMEN RESOLUCION\Ejercicio03\Ejercicio03\bin\Debug\Ejercicio03.exe.config
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\EXAMEN RESOLUCION\Ejercicio03\Ejercicio03\bin\Debug\Ejercicio03.exe
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\EXAMEN RESOLUCION\Ejercicio03\Ejercicio03\bin\Debug\Ejercicio03.pdb
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\EXAMEN RESOLUCION\Ejercicio03\Ejercicio03\obj\Debug\Ejercicio03.csprojResolveAssemblyReference.cache
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\EXAMEN RESOLUCION\Ejercicio03\Ejercicio03\obj\Debug\Ejercicio03.Form1.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\EXAMEN RESOLUCION\Ejercicio03\Ejercicio03\obj\Debug\Ejercicio03.Properties.Resources.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\EXAMEN RESOLUCION\Ejercicio03\Ejercicio03\obj\Debug\Ejercicio03.csproj.GenerateResource.Cache
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\EXAMEN RESOLUCION\Ejercicio03\Ejercicio03\obj\Debug\Ejercicio03.exe
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\EXAMEN RESOLUCION\Ejercicio03\Ejercicio03\obj\Debug\Ejercicio03.pdb

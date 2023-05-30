@@ -1,0 +1,88 @@
+C:\Users\Leonardo\source\repos\ListaDobleEnlazada\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.csproj.AssemblyReference.cache
+C:\Users\Leonardo\source\repos\ListaDobleEnlazada\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.frm_ciclistas.resources
+C:\Users\Leonardo\source\repos\ListaDobleEnlazada\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.frm_carreras.resources
+C:\Users\Leonardo\source\repos\ListaDobleEnlazada\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.Properties.Resources.resources
+C:\Users\Leonardo\source\repos\ListaDobleEnlazada\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.csproj.GenerateResource.cache
+C:\Users\Leonardo\source\repos\ListaDobleEnlazada\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Documents\EMI 4to semestre\estructura de datos II\ListaDobleEnlazada\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.csproj.AssemblyReference.cache
+C:\Users\Leonardo\Documents\EMI 4to semestre\estructura de datos II\ListaDobleEnlazada\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.frm_ciclistas.resources
+C:\Users\Leonardo\Documents\EMI 4to semestre\estructura de datos II\ListaDobleEnlazada\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.frm_carreras.resources
+C:\Users\Leonardo\Documents\EMI 4to semestre\estructura de datos II\ListaDobleEnlazada\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.Properties.Resources.resources
+C:\Users\Leonardo\Documents\EMI 4to semestre\estructura de datos II\ListaDobleEnlazada\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.csproj.GenerateResource.cache
+C:\Users\Leonardo\Documents\EMI 4to semestre\estructura de datos II\ListaDobleEnlazada\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.csproj.CoreCompileInputs.cache
+C:\Users\Leonardo\Documents\EMI 4to semestre\estructura de datos II\ListaDobleEnlazada\ListaDobleEnlazada\bin\Debug\ListaDobleEnlazada.exe.config
+C:\Users\Leonardo\Documents\EMI 4to semestre\estructura de datos II\ListaDobleEnlazada\ListaDobleEnlazada\bin\Debug\ListaDobleEnlazada.exe
+C:\Users\Leonardo\Documents\EMI 4to semestre\estructura de datos II\ListaDobleEnlazada\ListaDobleEnlazada\bin\Debug\ListaDobleEnlazada.pdb
+C:\Users\Leonardo\Documents\EMI 4to semestre\estructura de datos II\ListaDobleEnlazada\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.frm_principal.resources
+C:\Users\Leonardo\Documents\EMI 4to semestre\estructura de datos II\ListaDobleEnlazada\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.exe
+C:\Users\Leonardo\Documents\EMI 4to semestre\estructura de datos II\ListaDobleEnlazada\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.pdb
+C:\Users\Leonardo\Documents\EMI 4to semestre\estructura de datos II\ListaDobleEnlazada\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.frm_mostrar_ciclista.resources
+C:\Users\VICTOR\Downloads\ListaDobleEnlazada\ListaDobleEnlazada\bin\Debug\ListaDobleEnlazada.exe.config
+C:\Users\VICTOR\Downloads\ListaDobleEnlazada\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.exe
+C:\Users\VICTOR\Downloads\ListaDobleEnlazada\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.pdb
+C:\Users\VICTOR\Downloads\ListaDobleEnlazada\ListaDobleEnlazada\bin\Debug\ListaDobleEnlazada.exe
+C:\Users\VICTOR\Downloads\ListaDobleEnlazada\ListaDobleEnlazada\bin\Debug\ListaDobleEnlazada.pdb
+C:\Users\VICTOR\Downloads\ListaDobleEnlazada\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.csprojResolveAssemblyReference.cache
+C:\Users\VICTOR\Downloads\ListaDobleEnlazada\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.frm_ciclistas.resources
+C:\Users\VICTOR\Downloads\ListaDobleEnlazada\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.frm_carreras.resources
+C:\Users\VICTOR\Downloads\ListaDobleEnlazada\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.frm_principal.resources
+C:\Users\VICTOR\Downloads\ListaDobleEnlazada\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.frm_mostrar_ciclista.resources
+C:\Users\VICTOR\Downloads\ListaDobleEnlazada\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.Properties.Resources.resources
+C:\Users\VICTOR\Downloads\ListaDobleEnlazada\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.csproj.GenerateResource.Cache
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\ListaDobleEnlazadaEGUINO\ListaDobleEnlazada\bin\Debug\ListaDobleEnlazada.exe.config
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\ListaDobleEnlazadaEGUINO\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.exe
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\ListaDobleEnlazadaEGUINO\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.pdb
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\ListaDobleEnlazadaEGUINO\ListaDobleEnlazada\bin\Debug\ListaDobleEnlazada.exe
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\ListaDobleEnlazadaEGUINO\ListaDobleEnlazada\bin\Debug\ListaDobleEnlazada.pdb
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\ListaDobleEnlazadaEGUINO\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.csprojResolveAssemblyReference.cache
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\ListaDobleEnlazadaEGUINO\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.frm_ciclistas.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\ListaDobleEnlazadaEGUINO\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.frm_carreras.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\ListaDobleEnlazadaEGUINO\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.frm_principal.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\ListaDobleEnlazadaEGUINO\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.frm_mostrar_ciclista.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\ListaDobleEnlazadaEGUINO\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.Properties.Resources.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\ListaDobleEnlazadaEGUINO\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.csproj.GenerateResource.Cache
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRACTICA _FINAL\ListaDobleEnlazada\bin\Debug\ListaDobleEnlazada.exe.config
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRACTICA _FINAL\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.exe
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRACTICA _FINAL\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.pdb
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRACTICA _FINAL\ListaDobleEnlazada\bin\Debug\ListaDobleEnlazada.exe
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRACTICA _FINAL\ListaDobleEnlazada\bin\Debug\ListaDobleEnlazada.pdb
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRACTICA _FINAL\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.csprojResolveAssemblyReference.cache
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRACTICA _FINAL\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.frm_ciclistas.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRACTICA _FINAL\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.frm_carreras.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRACTICA _FINAL\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.frm_principal.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRACTICA _FINAL\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.frm_mostrar_ciclista.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRACTICA _FINAL\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.Properties.Resources.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRACTICA _FINAL\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.csproj.GenerateResource.Cache
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRACTICA _FINAL\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.Frm_mostrar_carrera.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRACTICA _FINAL\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.Frm_Busqueda.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRIMER PARCIAL\PRACTICA _FINAL\ListaDobleEnlazada\bin\Debug\ListaDobleEnlazada.exe.config
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRIMER PARCIAL\PRACTICA _FINAL\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.exe
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRIMER PARCIAL\PRACTICA _FINAL\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.pdb
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRIMER PARCIAL\PRACTICA _FINAL\ListaDobleEnlazada\bin\Debug\ListaDobleEnlazada.exe
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRIMER PARCIAL\PRACTICA _FINAL\ListaDobleEnlazada\bin\Debug\ListaDobleEnlazada.pdb
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRIMER PARCIAL\PRACTICA _FINAL\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.csprojResolveAssemblyReference.cache
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRIMER PARCIAL\PRACTICA _FINAL\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.Frm_Busqueda.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRIMER PARCIAL\PRACTICA _FINAL\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.frm_ciclistas.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRIMER PARCIAL\PRACTICA _FINAL\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.frm_carreras.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRIMER PARCIAL\PRACTICA _FINAL\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.frm_principal.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRIMER PARCIAL\PRACTICA _FINAL\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.Frm_mostrar_carrera.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRIMER PARCIAL\PRACTICA _FINAL\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.frm_mostrar_ciclista.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRIMER PARCIAL\PRACTICA _FINAL\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.Properties.Resources.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\PRIMER PARCIAL\PRACTICA _FINAL\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.csproj.GenerateResource.Cache
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Lista_Doblemente\ListaDobleEnlazada\bin\Debug\ListaDobleEnlazada.exe.config
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Lista_Doblemente\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.exe
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Lista_Doblemente\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.pdb
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Lista_Doblemente\ListaDobleEnlazada\bin\Debug\ListaDobleEnlazada.exe
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Lista_Doblemente\ListaDobleEnlazada\bin\Debug\ListaDobleEnlazada.pdb
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Lista_Doblemente\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.csprojResolveAssemblyReference.cache
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Lista_Doblemente\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.Frm_Busqueda.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Lista_Doblemente\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.frm_ciclistas.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Lista_Doblemente\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.frm_carreras.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Lista_Doblemente\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.frm_principal.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Lista_Doblemente\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.Frm_mostrar_carrera.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Lista_Doblemente\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.frm_mostrar_ciclista.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Lista_Doblemente\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.Properties.Resources.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Lista_Doblemente\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.csproj.GenerateResource.Cache
+C:\Users\VICTOR\Documents\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Lista_Doblemente\ListaDobleEnlazada\bin\Debug\ListaDobleEnlazada.exe.config
+C:\Users\VICTOR\Documents\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Lista_Doblemente\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.exe
+C:\Users\VICTOR\Documents\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Lista_Doblemente\ListaDobleEnlazada\obj\Debug\ListaDobleEnlazada.pdb

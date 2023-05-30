@@ -1,0 +1,9 @@
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Estructura_Pila\Estructura_Pila\bin\Debug\Estructura_Pila.exe.config
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Estructura_Pila\Estructura_Pila\bin\Debug\Estructura_Pila.exe
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Estructura_Pila\Estructura_Pila\bin\Debug\Estructura_Pila.pdb
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Estructura_Pila\Estructura_Pila\obj\Debug\Estructura_Pila.csprojResolveAssemblyReference.cache
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Estructura_Pila\Estructura_Pila\obj\Debug\Estructura_Pila.Frm_principal.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Estructura_Pila\Estructura_Pila\obj\Debug\Estructura_Pila.Properties.Resources.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Estructura_Pila\Estructura_Pila\obj\Debug\Estructura_Pila.csproj.GenerateResource.Cache
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Estructura_Pila\Estructura_Pila\obj\Debug\Estructura_Pila.exe
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\Estructura_Pila\Estructura_Pila\obj\Debug\Estructura_Pila.pdb

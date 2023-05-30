@@ -1,0 +1,30 @@
+C:\Users\FERNANDA RODRIGUEZ\Desktop\Estructura de Datos\Tarea Pilas y colas\AplicacionColas\AplicacionColas\bin\Debug\AplicacionColas.exe.config
+C:\Users\FERNANDA RODRIGUEZ\Desktop\Estructura de Datos\Tarea Pilas y colas\AplicacionColas\AplicacionColas\bin\Debug\AplicacionColas.exe
+C:\Users\FERNANDA RODRIGUEZ\Desktop\Estructura de Datos\Tarea Pilas y colas\AplicacionColas\AplicacionColas\bin\Debug\AplicacionColas.pdb
+C:\Users\FERNANDA RODRIGUEZ\Desktop\Estructura de Datos\Tarea Pilas y colas\AplicacionColas\AplicacionColas\obj\Debug\AplicacionColas.csproj.AssemblyReference.cache
+C:\Users\FERNANDA RODRIGUEZ\Desktop\Estructura de Datos\Tarea Pilas y colas\AplicacionColas\AplicacionColas\obj\Debug\AplicacionColas.Form1.resources
+C:\Users\FERNANDA RODRIGUEZ\Desktop\Estructura de Datos\Tarea Pilas y colas\AplicacionColas\AplicacionColas\obj\Debug\AplicacionColas.Imprimiendo.resources
+C:\Users\FERNANDA RODRIGUEZ\Desktop\Estructura de Datos\Tarea Pilas y colas\AplicacionColas\AplicacionColas\obj\Debug\AplicacionColas.Properties.Resources.resources
+C:\Users\FERNANDA RODRIGUEZ\Desktop\Estructura de Datos\Tarea Pilas y colas\AplicacionColas\AplicacionColas\obj\Debug\AplicacionColas.csproj.GenerateResource.cache
+C:\Users\FERNANDA RODRIGUEZ\Desktop\Estructura de Datos\Tarea Pilas y colas\AplicacionColas\AplicacionColas\obj\Debug\AplicacionColas.csproj.CoreCompileInputs.cache
+C:\Users\FERNANDA RODRIGUEZ\Desktop\Estructura de Datos\Tarea Pilas y colas\AplicacionColas\AplicacionColas\obj\Debug\AplicacionColas.exe
+C:\Users\FERNANDA RODRIGUEZ\Desktop\Estructura de Datos\Tarea Pilas y colas\AplicacionColas\AplicacionColas\obj\Debug\AplicacionColas.pdb
+C:\Users\VICTOR\Downloads\AplicacionColas\AplicacionColas\bin\Debug\AplicacionColas.exe.config
+C:\Users\VICTOR\Downloads\AplicacionColas\AplicacionColas\obj\Debug\AplicacionColas.exe
+C:\Users\VICTOR\Downloads\AplicacionColas\AplicacionColas\obj\Debug\AplicacionColas.pdb
+C:\Users\VICTOR\Downloads\AplicacionColas\AplicacionColas\bin\Debug\AplicacionColas.exe
+C:\Users\VICTOR\Downloads\AplicacionColas\AplicacionColas\bin\Debug\AplicacionColas.pdb
+C:\Users\VICTOR\Downloads\AplicacionColas\AplicacionColas\obj\Debug\AplicacionColas.Form1.resources
+C:\Users\VICTOR\Downloads\AplicacionColas\AplicacionColas\obj\Debug\AplicacionColas.Imprimiendo.resources
+C:\Users\VICTOR\Downloads\AplicacionColas\AplicacionColas\obj\Debug\AplicacionColas.Properties.Resources.resources
+C:\Users\VICTOR\Downloads\AplicacionColas\AplicacionColas\obj\Debug\AplicacionColas.csproj.GenerateResource.Cache
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\ImpresoraColas\AplicacionColas\AplicacionColas\bin\Debug\AplicacionColas.exe.config
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\ImpresoraColas\AplicacionColas\AplicacionColas\obj\Debug\AplicacionColas.exe
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\ImpresoraColas\AplicacionColas\AplicacionColas\obj\Debug\AplicacionColas.pdb
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\ImpresoraColas\AplicacionColas\AplicacionColas\bin\Debug\AplicacionColas.exe
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\ImpresoraColas\AplicacionColas\AplicacionColas\bin\Debug\AplicacionColas.pdb
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\ImpresoraColas\AplicacionColas\AplicacionColas\obj\Debug\AplicacionColas.csprojResolveAssemblyReference.cache
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\ImpresoraColas\AplicacionColas\AplicacionColas\obj\Debug\AplicacionColas.Form1.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\ImpresoraColas\AplicacionColas\AplicacionColas\obj\Debug\AplicacionColas.Imprimiendo.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\ImpresoraColas\AplicacionColas\AplicacionColas\obj\Debug\AplicacionColas.Properties.Resources.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\ESTRUCTURA DE DATOS II\SEGUNDO PARCIAL\ImpresoraColas\AplicacionColas\AplicacionColas\obj\Debug\AplicacionColas.csproj.GenerateResource.Cache

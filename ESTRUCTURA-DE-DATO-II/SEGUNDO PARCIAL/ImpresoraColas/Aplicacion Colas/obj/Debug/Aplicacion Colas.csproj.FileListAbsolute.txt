@@ -1,0 +1,23 @@
+D:\Estructura de Datos II\Pilas y Colas\Colas\Aplicacion Colas\bin\Debug\Aplicacion Colas.exe.config
+D:\Estructura de Datos II\Pilas y Colas\Colas\Aplicacion Colas\bin\Debug\Aplicacion Colas.exe
+D:\Estructura de Datos II\Pilas y Colas\Colas\Aplicacion Colas\bin\Debug\Aplicacion Colas.pdb
+D:\Estructura de Datos II\Pilas y Colas\Colas\Aplicacion Colas\obj\Debug\Aplicacion Colas.csproj.AssemblyReference.cache
+D:\Estructura de Datos II\Pilas y Colas\Colas\Aplicacion Colas\obj\Debug\Aplicacion_Colas.Form1.resources
+D:\Estructura de Datos II\Pilas y Colas\Colas\Aplicacion Colas\obj\Debug\Aplicacion_Colas.Properties.Resources.resources
+D:\Estructura de Datos II\Pilas y Colas\Colas\Aplicacion Colas\obj\Debug\Aplicacion Colas.csproj.GenerateResource.cache
+D:\Estructura de Datos II\Pilas y Colas\Colas\Aplicacion Colas\obj\Debug\Aplicacion Colas.csproj.CoreCompileInputs.cache
+D:\Estructura de Datos II\Pilas y Colas\Colas\Aplicacion Colas\obj\Debug\Aplicacion Colas.exe
+D:\Estructura de Datos II\Pilas y Colas\Colas\Aplicacion Colas\obj\Debug\Aplicacion Colas.pdb
+D:\Estructura de Datos II\Pilas y Colas\Colas\Aplicacion Colas\obj\Debug\Aplicacion_Colas.Form2.resources
+D:\Estructura de Datos II\Pilas y Colas\Colas\Aplicacion Colas\obj\Debug\Aplicacion_Colas.Form3.resources
+C:\Users\VICTOR\Downloads\Aplicacion Colas\bin\Debug\Aplicacion Colas.exe.config
+C:\Users\VICTOR\Downloads\Aplicacion Colas\obj\Debug\Aplicacion Colas.exe
+C:\Users\VICTOR\Downloads\Aplicacion Colas\obj\Debug\Aplicacion Colas.pdb
+C:\Users\VICTOR\Downloads\Aplicacion Colas\bin\Debug\Aplicacion Colas.exe
+C:\Users\VICTOR\Downloads\Aplicacion Colas\bin\Debug\Aplicacion Colas.pdb
+C:\Users\VICTOR\Downloads\Aplicacion Colas\obj\Debug\Aplicacion Colas.csprojResolveAssemblyReference.cache
+C:\Users\VICTOR\Downloads\Aplicacion Colas\obj\Debug\Aplicacion_Colas.Form1.resources
+C:\Users\VICTOR\Downloads\Aplicacion Colas\obj\Debug\Aplicacion_Colas.Form2.resources
+C:\Users\VICTOR\Downloads\Aplicacion Colas\obj\Debug\Aplicacion_Colas.Form3.resources
+C:\Users\VICTOR\Downloads\Aplicacion Colas\obj\Debug\Aplicacion_Colas.Properties.Resources.resources
+C:\Users\VICTOR\Downloads\Aplicacion Colas\obj\Debug\Aplicacion Colas.csproj.GenerateResource.Cache
