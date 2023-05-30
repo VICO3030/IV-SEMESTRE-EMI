@@ -1,0 +1,25 @@
+C:\Users\ATORA-HP\source\repos\listas_simples\LISTAS_SIMPLES\bin\Debug\LISTAS_SIMPLES.exe.config
+C:\Users\ATORA-HP\source\repos\listas_simples\LISTAS_SIMPLES\bin\Debug\LISTAS_SIMPLES.exe
+C:\Users\ATORA-HP\source\repos\listas_simples\LISTAS_SIMPLES\bin\Debug\LISTAS_SIMPLES.pdb
+C:\Users\ATORA-HP\source\repos\listas_simples\LISTAS_SIMPLES\obj\Debug\LISTAS_SIMPLES.csproj.AssemblyReference.cache
+C:\Users\ATORA-HP\source\repos\listas_simples\LISTAS_SIMPLES\obj\Debug\LISTAS_SIMPLES.csproj.SuggestedBindingRedirects.cache
+C:\Users\ATORA-HP\source\repos\listas_simples\LISTAS_SIMPLES\obj\Debug\LISTAS_SIMPLES.Frm_lista.resources
+C:\Users\ATORA-HP\source\repos\listas_simples\LISTAS_SIMPLES\obj\Debug\LISTAS_SIMPLES.Properties.Resources.resources
+C:\Users\ATORA-HP\source\repos\listas_simples\LISTAS_SIMPLES\obj\Debug\LISTAS_SIMPLES.csproj.GenerateResource.cache
+C:\Users\ATORA-HP\source\repos\listas_simples\LISTAS_SIMPLES\obj\Debug\LISTAS_SIMPLES.csproj.CoreCompileInputs.cache
+C:\Users\ATORA-HP\source\repos\listas_simples\LISTAS_SIMPLES\obj\Debug\LISTAS_SIMPLES.exe
+C:\Users\ATORA-HP\source\repos\listas_simples\LISTAS_SIMPLES\obj\Debug\LISTAS_SIMPLES.pdb
+C:\Users\MSI CORE I7\Desktop\LISTAS_SIMPLES\bin\Debug\LISTAS_SIMPLES.exe.config
+C:\Users\MSI CORE I7\Desktop\LISTAS_SIMPLES\bin\Debug\LISTAS_SIMPLES.exe
+C:\Users\MSI CORE I7\Desktop\LISTAS_SIMPLES\bin\Debug\LISTAS_SIMPLES.pdb
+C:\Users\MSI CORE I7\Desktop\LISTAS_SIMPLES\obj\Debug\LISTAS_SIMPLES.csproj.AssemblyReference.cache
+C:\Users\MSI CORE I7\Desktop\LISTAS_SIMPLES\obj\Debug\LISTAS_SIMPLES.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI CORE I7\Desktop\LISTAS_SIMPLES\obj\Debug\LISTAS_SIMPLES.Frm_lista.resources
+C:\Users\MSI CORE I7\Desktop\LISTAS_SIMPLES\obj\Debug\LISTAS_SIMPLES.Properties.Resources.resources
+C:\Users\MSI CORE I7\Desktop\LISTAS_SIMPLES\obj\Debug\LISTAS_SIMPLES.csproj.GenerateResource.cache
+C:\Users\MSI CORE I7\Desktop\LISTAS_SIMPLES\obj\Debug\LISTAS_SIMPLES.csproj.CoreCompileInputs.cache
+C:\Users\MSI CORE I7\Desktop\LISTAS_SIMPLES\obj\Debug\LISTAS_SIMPLES.exe
+C:\Users\MSI CORE I7\Desktop\LISTAS_SIMPLES\obj\Debug\LISTAS_SIMPLES.pdb
+C:\Users\VICTOR\Desktop\2t\LISTAS_SIMPLES\bin\Debug\LISTAS_SIMPLES.exe.config
+C:\Users\VICTOR\Desktop\2t\LISTAS_SIMPLES\obj\Debug\LISTAS_SIMPLES.exe
+C:\Users\VICTOR\Desktop\2t\LISTAS_SIMPLES\obj\Debug\LISTAS_SIMPLES.pdb

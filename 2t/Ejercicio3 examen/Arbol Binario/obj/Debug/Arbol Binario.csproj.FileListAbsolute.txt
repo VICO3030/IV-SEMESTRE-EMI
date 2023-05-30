@@ -1,0 +1,30 @@
+C:\Users\MSI CORE I7\Documents\VS Comunity\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.exe.config
+C:\Users\MSI CORE I7\Documents\VS Comunity\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.exe
+C:\Users\MSI CORE I7\Documents\VS Comunity\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.pdb
+C:\Users\MSI CORE I7\Documents\VS Comunity\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csproj.AssemblyReference.cache
+C:\Users\MSI CORE I7\Documents\VS Comunity\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI CORE I7\Documents\VS Comunity\Arbol Binario\Arbol Binario\obj\Debug\Arbol_Binario.Properties.Resources.resources
+C:\Users\MSI CORE I7\Documents\VS Comunity\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csproj.GenerateResource.cache
+C:\Users\MSI CORE I7\Documents\VS Comunity\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csproj.CoreCompileInputs.cache
+C:\Users\MSI CORE I7\Documents\VS Comunity\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.exe
+C:\Users\MSI CORE I7\Documents\VS Comunity\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.pdb
+C:\Users\MSI CORE I7\Documents\VS Comunity\Arbol Binario\Arbol Binario\obj\Debug\Arbol_Binario.DibujoArbol.resources
+C:\Users\MSI CORE I7\Documents\VS Comunity\Arbol Binario\Arbol Binario\obj\Debug\Arbol_Binario.principal.resources
+C:\Users\MSI CORE I7\Desktop\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.exe.config
+C:\Users\MSI CORE I7\Desktop\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.exe
+C:\Users\MSI CORE I7\Desktop\Arbol Binario\Arbol Binario\bin\Debug\Arbol Binario.pdb
+C:\Users\MSI CORE I7\Desktop\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csproj.AssemblyReference.cache
+C:\Users\MSI CORE I7\Desktop\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csproj.SuggestedBindingRedirects.cache
+C:\Users\MSI CORE I7\Desktop\Arbol Binario\Arbol Binario\obj\Debug\Arbol_Binario.principal.resources
+C:\Users\MSI CORE I7\Desktop\Arbol Binario\Arbol Binario\obj\Debug\Arbol_Binario.Properties.Resources.resources
+C:\Users\MSI CORE I7\Desktop\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csproj.GenerateResource.cache
+C:\Users\MSI CORE I7\Desktop\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.csproj.CoreCompileInputs.cache
+C:\Users\MSI CORE I7\Desktop\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.exe
+C:\Users\MSI CORE I7\Desktop\Arbol Binario\Arbol Binario\obj\Debug\Arbol Binario.pdb
+C:\Users\VICTOR\Desktop\Ejercicio3 examen\Arbol Binario\bin\Debug\Arbol Binario.exe.config
+C:\Users\VICTOR\Desktop\Ejercicio3 examen\Arbol Binario\obj\Debug\Arbol Binario.exe
+C:\Users\VICTOR\Desktop\Ejercicio3 examen\Arbol Binario\obj\Debug\Arbol Binario.pdb
+C:\Users\VICTOR\Desktop\Ejercicio3 examen\Arbol Binario\obj\Debug\Arbol Binario.csprojResolveAssemblyReference.cache
+C:\Users\VICTOR\Desktop\Ejercicio3 examen\Arbol Binario\obj\Debug\Arbol_Binario.principal.resources
+C:\Users\VICTOR\Desktop\Ejercicio3 examen\Arbol Binario\obj\Debug\Arbol_Binario.Properties.Resources.resources
+C:\Users\VICTOR\Desktop\Ejercicio3 examen\Arbol Binario\obj\Debug\Arbol Binario.csproj.GenerateResource.Cache
