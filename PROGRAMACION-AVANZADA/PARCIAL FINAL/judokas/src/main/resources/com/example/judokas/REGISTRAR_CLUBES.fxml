@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+<?import javafx.scene.text.*?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/16" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.judokas.Controlador.REGISTRARCLUBES">
+   <children>
+      <Label layoutX="144.0" layoutY="34.0" text="REGISTRO CLUBES">
+         <font>
+            <Font name="System Bold" size="36.0" />
+         </font></Label>
+      <Label fx:id="lblIngrese" layoutX="14.0" layoutY="127.0" text="INGRESE EL MUNICIPIO AL QUE PERTENESE:">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font></Label>
+      <Label fx:id="lblNombre" layoutX="14.0" layoutY="163.0" text="NOMBRE:">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+      </Label>
+      <Label fx:id="lblPersoneria" layoutX="14.0" layoutY="200.0" text="PERSONERIA:">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+      </Label>
+      <Label fx:id="lblDireccion" layoutX="21.0" layoutY="239.0" text="DIRECCION:">
+         <font>
+            <Font name="System Bold" size="15.0" />
+         </font>
+      </Label>
+      <ComboBox fx:id="cmbMunicipio" layoutX="349.0" layoutY="125.0" prefWidth="150.0" />
+      <TextField fx:id="txtNombre" layoutX="128.0" layoutY="161.0" />
+      <TextField fx:id="txtPersoneria" layoutX="128.0" layoutY="198.0" />
+      <TextField fx:id="txtDireccion" layoutX="129.0" layoutY="237.0" />
+      <Button fx:id="btnRegistrar" layoutX="262.0" layoutY="341.0" mnemonicParsing="false" onMouseClicked="#ClickRegitrarClub" text="REGISTRAR" />
+   </children>
+</AnchorPane>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="94621ecf-0be0-45ed-9945-1bcc5f05b1b1" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2FzawsLYdX8xAdOU5DCRKxe6B5T" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_directory_selection": "C:/Users/VICTOR/Desktop/[IV SEMESTRE]/PROGRAMACION AVANZADA/SEGUNDO PARCIAL/PROYECTO_JUDOKAS/src/main/java/com/example",
+    "last_opened_file_path": "C:/Users/VICTOR/Desktop/[IV SEMESTRE]/PROGRAMACION AVANZADA/SEGUNDO PARCIAL/PROYECTO_JUDOKAS",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.editor"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\VICTOR\Desktop\[IV SEMESTRE]\PROGRAMACION AVANZADA\SEGUNDO PARCIAL\pro_polo\src\Modelo" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\VICTOR\Desktop\[IV SEMESTRE]\PROGRAMACION AVANZADA\SEGUNDO PARCIAL\PROYECTO_JUDOKAS\src\main\resources\com\example\original" />
+      <recent name="C:\Users\VICTOR\Desktop\[IV SEMESTRE]\PROGRAMACION AVANZADA\SEGUNDO PARCIAL\PROYECTO_JUDOKAS\src\main\java\com\example\original" />
+      <recent name="C:\Users\VICTOR\Desktop\[IV SEMESTRE]\PROGRAMACION AVANZADA\SEGUNDO PARCIAL\pro_polo\src\main" />
+      <recent name="C:\Users\VICTOR\Desktop\[IV SEMESTRE]\PROGRAMACION AVANZADA\SEGUNDO PARCIAL\pro_polo\src\out" />
+      <recent name="C:\Users\VICTOR\Desktop\[IV SEMESTRE]\PROGRAMACION AVANZADA\SEGUNDO PARCIAL\pro_polo\src\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.original.HelloApplication" />
+      <module name="original" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.original.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="PROYECTO_JUDOKAS" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="PROYECTO_JUDOKAS" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="94621ecf-0be0-45ed-9945-1bcc5f05b1b1" name="Changes" comment="" />
+      <created>1665497615800</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1665497615800</updated>
+    </task>
+    <servers />
+  </component>
+</project>

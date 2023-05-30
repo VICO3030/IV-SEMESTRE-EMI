@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="297.0" prefWidth="483.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.demo.Controlador.ClubCONTROLER">
+   <children>
+      <Button layoutX="361.0" layoutY="231.0" mnemonicParsing="false" text="REGISTRAR" />
+      <Button layoutX="40.0" layoutY="243.0" mnemonicParsing="false" text="VOLVER" />
+      <Label layoutX="184.0" layoutY="39.0" text="CLUB JUDO" textAlignment="CENTER" textFill="#b14040">
+         <font>
+            <Font name="System Bold Italic" size="21.0" />
+         </font></Label>
+
+      <Label fx:id="lbl_nomclub" layoutX="36.0" layoutY="95.0" text="NOMBRE DEL CLUB :" />
+      <Label fx:id="lbl_cantperso" layoutX="35.0" layoutY="135.0" text="CANTIDAD DE PERSONERIA :" />
+      <Label fx:id="lbl_direccio" layoutX="36.0" layoutY="173.0" text="DIRECCION :" />
+      <TextField fx:id="txt_nom" layoutX="170.0" layoutY="91.0" prefHeight="26.0" prefWidth="242.0" />
+      <TextField fx:id="txt_direcc" layoutX="161.0" layoutY="169.0" prefHeight="18.0" prefWidth="276.0" />
+      <TextField fx:id="txt_cantperso" layoutX="199.0" layoutY="131.0" prefHeight="26.0" prefWidth="82.0" />
+   </children>
+</AnchorPane>

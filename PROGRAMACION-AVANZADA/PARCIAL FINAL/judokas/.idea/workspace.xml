@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e3c3d4bd-7f27-4c05-8193-1dbb6806f95b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/judokas/Controlador/PANELCONTROL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/judokas/Controlador/REGISTRARCLUBES.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/judokas/Controlador/REGISTRARMUNICIPIOS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/judokas/Controlador/main_prueba.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/judokas/Modelo/Club.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/judokas/Modelo/Estatica.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/judokas/Modelo/Municipio.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/judokas/Modelo/PrograAvan/Grupos/Grupos01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/judokas/Modelo/PrograAvan/Grupos/Grupos02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/judokas/Modelo/PrograAvan/Grupos/Grupos03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/judokas/Modelo/PrograAvan/Lineal/Cola.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/judokas/Modelo/PrograAvan/Lineal/Lista.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/judokas/Modelo/PrograAvan/Lineal/Nodo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/judokas/Modelo/PrograAvan/Lineal/Ordenamiento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/judokas/Modelo/PrograAvan/Lineal/Pila.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/judokas/Modelo/PrograAvan/NoLineal/ArbolBinario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/judokas/Modelo/PrograAvan/NoLineal/ArbolRB.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/judokas/Modelo/PrograAvan/NoLineal/Grupos01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/judokas/Modelo/PrograAvan/NoLineal/Grupos02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/judokas/Modelo/PrograAvan/NoLineal/Grupos03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/judokas/Modelo/PrograAvan/NoLineal/Grupos04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/judokas/Modelo/PrograAvan/Persistencia/Persistencia.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/judokas/Modelo/Torneo_Municipal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/judokas/PANEL_CONTROL.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/judokas/REGISTRAR_CLUBES.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/com/example/judokas/REGISTRAR_MUNICIPIOS.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/judokas/Controlador/REGISTRARJUDOKA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/judokas/Controlador/REGISTRARJUDOKA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/judokas/HelloApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/judokas/HelloApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/com/example/judokas/REGISTRAR_JUDOKA.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/com/example/judokas/REGISTRAR_JUDOKA.fxml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Script" />
+        <option value="HTML File" />
+        <option value="FxmlFile" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2H4SWtJhOJxNCX2pMV3Tpxowtz0" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.HelloApplication">
+    <configuration name="HelloApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.judokas.HelloApplication" />
+      <module name="judokas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.judokas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main_prueba" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.judokas.Controlador.main_prueba" />
+      <module name="judokas" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.judokas.Controlador.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloApplication" />
+        <item itemvalue="Application.main_prueba" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e3c3d4bd-7f27-4c05-8193-1dbb6806f95b" name="Changes" comment="" />
+      <created>1667542918721</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1667542918721</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

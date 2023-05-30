@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+
+<AnchorPane prefHeight="400.0" prefWidth="600.0" xmlns="http://javafx.com/javafx/19" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.example.demo.Controlador.PanelControl">
+   <children>
+      <Button fx:id="btn_judoka" layoutX="74.0" layoutY="336.0" mnemonicParsing="false" onMouseClicked="#cargarJudo" text="REGISTRAR JUDOKA" />
+      <ImageView fitHeight="207.0" fitWidth="436.0" layoutX="122.0" layoutY="37.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@../../../../../../../../../Documents/tecnicas-de-judo.jpg" />
+         </image>
+      </ImageView>
+      <Button fx:id="btn_registrarClub" layoutX="256.0" layoutY="336.0" mnemonicParsing="false" onMouseClicked="#cargaClub" text="REGISTRAR CLUB" />
+      <Button fx:id="btn_registrMuni" layoutX="417.0" layoutY="336.0" mnemonicParsing="false" onMouseClicked="#Cargamuni" text="REGISTRAR MUNICIPIO" />
+   </children>
+</AnchorPane>

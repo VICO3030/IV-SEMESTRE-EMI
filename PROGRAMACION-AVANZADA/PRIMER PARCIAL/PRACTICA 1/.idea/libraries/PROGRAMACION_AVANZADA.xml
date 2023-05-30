@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="PROGRAMACION_AVANZADA">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/PROGRAMACION_AVANZADA.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
