@@ -1,0 +1,5 @@
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\BASE DE DATOS I\ConexionSQL\ConexionSQL\bin\Debug\ConexionSQL.exe.config
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\BASE DE DATOS I\ConexionSQL\ConexionSQL\obj\Debug\ConexionSQL.csprojResolveAssemblyReference.cache
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\BASE DE DATOS I\ConexionSQL\ConexionSQL\obj\Debug\ConexionSQL.Form1.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\BASE DE DATOS I\ConexionSQL\ConexionSQL\obj\Debug\ConexionSQL.Properties.Resources.resources
+C:\Users\VICTOR\Desktop\[IV SEMESTRE]\BASE DE DATOS I\ConexionSQL\ConexionSQL\obj\Debug\ConexionSQL.csproj.GenerateResource.Cache
