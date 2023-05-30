@@ -1,0 +1,99 @@
+INVESTIGACIONO OPERATIVA
+	
+	1. DEFINICION 
+	Aplicacion or grupos insterdiciplinarios 
+	2.-HISTORIA
+	Para resolver problemas tactica , aplicaron los ingleses 
+		-->problemas logistico s 
+		-->planeacion de mnias 
+	1era tecnica =Metodo Simplex geORGE danting
+
+	Actualmente , gracias a la computadora proceso tomar desiciones es rapida y precisa 
+	3.-AREAS DE APLICACION 
+ 		*Aplicacion
+		*insdstrial 
+		*comercio
+	4.-METODO QUE UTILIZA IO
+		*metodo simplex
+		*metodo Dual simplex
+		*metodo de la M grande 		
+		*metodo de las 2 fases 
+		*metodo  de aroximacion vogel
+		*metodo de esquina del nor oeste
+
+	5.- MODELOS Y SU SIGNIFICADO
+		Modelo .- vision bieni estructurada de la realidad 
+		Medio -->permite analizar el comportamiento de un istema . Obejtivo = Optimizar
+		
+		Objetivo [  Maximizar (beneficios , ingresis , utilidades , etc) Minimizar (costos , tiempo , recursos  etc) ]
+	 
+IMPORTANTE
+		Tipos de parametros 
+		-->Deterministicos  : cuando el valor es conocido , es establecido , siempre se repite .
+		-->Probabilisticos : son datos insiertos , cuando lanzas una moneda y no sabes que va salir .
+
+	6.-ESTRUCTURA DEL MODELO
+		Utiliza 3 componentes : 
+			-->Varibales : incongnitas del modelo 		Parametros :  valores que relacionan las variabels con las restricciones y F.O.
+			-->Restricciones : controlan las limitaciones tecnologicas 
+			-->Funcion Objetiva : Medida de efectividad del sistema(funcion matematica){
+			Cual ese minimo  y ese maximo) cuando tienen un objetivo ,  es esa meta que quieres llegar y te va medir la efectividad
+				SIEMPRE ES UNA ECUACION DE IGUALDAD "
+			
+	7. METODOLOGIA IO
+		*Formulacion y definicion del problema  :Analizar y determinar
+			1.-Variables
+			2.-Tipos de optimizacion 
+			3.-Determinar las restricciones 
+		*CONSTRUCION DEL  MODELO 
+			elaborar el modelo matematico
+		*SOLUCION DE MODELO
+		aplicar metodos y tecnicas   de IO , para hallar los 1ros resultados 
+		*VALIDACION DEL MODELO
+		comparar los resultads obtenidos con datos pasados 
+		*IMPLEMENTACION DE  RESULTADOS 
+		interpretar resultados y dar onclusiones .
+	8.-CLASIFICACION DE LOS MODELOS 
+		-->ICONICOS  
+	Son 3 : --> ANALOGOS 	:tipos de valores que se vana trabajar  , y eso tambien puede ser una restriccion , 
+		-->SIMBOLICOS	formulaciones matematicas
+	9.-PROGRAMACION LINEAL 
+	 es un procedimiento o algoritmo matematico mediante se resueve un  problema formulado a traves de funciones matematicas
+							 ||	
+							 \/
+						objetivo
+	
+	10.-FORMULACION GENERAL 
+	Z= valor de media global de efectividad( valor de la funcion de objetivo)
+	X_f = variable de descicion
+	C_j=Coeficiente de costo o ganancia para la actividad j
+	b_i=Cantidad de recurso   i disponible para asignar a las actividades ( para i= 1,2....m)
+	a_ij=Cantidad del recurso consumido por cada unidad de ka actividad j 
+	n= Numero de variables de desicion
+	m =Numero de restricciones
+		F.O. Optimixar  z= c1X1 +c2x2+....+CnXn
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
