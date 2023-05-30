@@ -1,0 +1,25 @@
+7.2,1,2,1000,"Example 2: One-Dimensional Siting"
+"POM for Windows 3.2 Build 62"
+1,0,0,0,0,0,0
+0,1,0,0,1,0,0
+2,#TRUE#,0,0,0,0,0,0
+5,2
+"SITES"
+"Weight/trips"
+" x coord"
+"SITES"
+"site 1"
+"site 2"
+"site 3"
+"site 4"
+"Total"
+2
+SITES, 0  0  0 
+site 1, 0  6  1100 
+site 2, 0  2  2800 
+site 3, 0  1  3300 
+site 4, 0  4  6500 
+Total, 0  13  13700 
+-1,-1
+"done"
+"This problem could also be solved using the two dimensional model and placing all 0s in as the coordinates for the second (y) dimension."

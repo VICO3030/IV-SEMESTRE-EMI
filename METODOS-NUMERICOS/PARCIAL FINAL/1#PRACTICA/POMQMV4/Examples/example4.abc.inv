@@ -1,0 +1,24 @@
+7,1,6,1000,"Example 4: ABC Analysis"
+"POM-QM for Windows 3.0 Build 11"
+1,1,20,30,0,0,0
+0,1,0,0,1,0,0
+4,#TRUE#,0,0,0,0,0,0
+6,2
+""
+"Item 1"
+"Item 2"
+"Item 3"
+"Item 4"
+"Item 5"
+"Item 6"
+2
+dummy, 0  0  0 
+Item 1, 0  1800  2 
+Item 2, 0  340  4 
+Item 3, 0  25  68 
+Item 4, 0  870  2 
+Item 5, 0  330  9 
+Item 6, 0  50  3 
+-1,-1
+"done"
+"The program will categorize the items as A.B and C but you MUST check the results to see if they make sense.  For example, in this example, items 4 and 3 are a little too similar in their % of dollar volume to have two different classifications as given by the software."

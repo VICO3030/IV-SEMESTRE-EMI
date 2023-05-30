@@ -1,0 +1,24 @@
+7,1,0,1000,"Example "
+"POM-QM for Windows 3.0 Build 8"
+2,-1,.123753,-1,0,0,0
+0,1,0,0,1,0,0
+4,#TRUE#,0,0,0,0,0,0
+6,2
+"Period 0"
+"Period 1"
+"Period 2"
+"Period 3"
+"Period 4"
+"Period 5"
+"Period 6"
+2
+Period 0, 0  0  100000 
+Period 1, 0  22000  0 
+Period 2, 0  25000  0 
+Period 3, 0  22000  0 
+Period 4, 0  21000  0 
+Period 5, 0  19000  0 
+Period 6, 0  18000 -25000 
+-1,-1
+"done"
+"Once again, there is a salvage value in period 6 of $25,000 that we are showing as a negative outflow in order to keep the real inflow of $18,000 separate from the salvage value and to more easily see the present value of the salvage value in the solution."

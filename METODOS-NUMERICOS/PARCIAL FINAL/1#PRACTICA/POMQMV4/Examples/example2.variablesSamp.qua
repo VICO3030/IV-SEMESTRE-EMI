@@ -1,0 +1,22 @@
+7.2,1,2,1000,"Example 2: Variables Sampling Example"
+"POM for Windows 3.2 Build 62"
+1,1,0,0,0,0,0
+0,1,0,0,1,0,0
+4,#TRUE#,0,0,0,0,0,0
+5,1
+""
+"U0"
+"U1"
+"ALPHA"
+"BETA"
+"SIGMA"
+1
+dummy, 0  0 
+U0, 0  200 
+U1, 0  180 
+ALPHA, 0  .04 
+BETA, 0  .1 
+SIGMA, 0  10 
+-1,-1
+"done"
+""

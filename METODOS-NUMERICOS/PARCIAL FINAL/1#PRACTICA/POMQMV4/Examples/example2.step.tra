@@ -1,0 +1,32 @@
+7,.9,0,1000,"Example 2 - Starting with the Northwest Corner Method and Stepping"
+"POM-QM for Windows 3.0 Build 16"
+2,2,50,3,0,0,0
+0,0,0,0,0,0,0
+2,#TRUE#,0,0,0,0,0,0
+6,7
+""
+"Evanston"
+"Oak Brook"
+"Northbrook"
+"Willmette"
+"Morton Grove"
+"Skokie"
+"Supply"
+"minimize"
+"Glenside"
+"Cheltenham"
+"Jenkintown"
+"Ambler"
+"Hatboro"
+"Demand"
+7
+minimize, 1  1  1  0  0  0  0  0 
+Glenside, 1  12  9999  24  64  22  23  100 
+Cheltenham, 0  15  30  22  55  38  26  121 
+Jenkintown, 0  25  22  33  87  43  24  245 
+Ambler, 0  25  32  66  21  12  55  237 
+Hatboro, 0  13  34  25  65  23  23  104 
+Demand, 0  112  69  123  224  26  154  99 
+-1,-1
+"done"
+""

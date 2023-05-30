@@ -1,0 +1,22 @@
+7.2,1,0,1000,"(untitled)"
+"POM for Windows 3.2 Build 68"
+3,2,0,0,0,0,0
+0,1,0,0,1,0,0
+2,#FALSE#,0,0,0,0,0,0
+3,3
+""
+"Destination 1"
+"Destination 2"
+"SUPPLY"
+""
+"Source 1"
+"Source 2"
+"DEMAND"
+3
+dummy, 0  0  0  0 
+Source 1, 0  1  2  1 
+Source 2, 0  4  3  1 
+DEMAND, 0  1  1  0 
+-1,-1
+"done"
+""

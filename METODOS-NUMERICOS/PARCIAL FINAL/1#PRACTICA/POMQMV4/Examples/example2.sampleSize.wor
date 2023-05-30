@@ -1,0 +1,25 @@
+7,1,2,1000,"Example 2"
+"POM-QM for Windows 3.0 Build 11"
+2,2,.05,-1,0,0,0
+0,1,0,0,1,0,0
+4,#TRUE#,0,0,0,0,0,0
+3,6
+""
+"Accuracy level"
+"Obs 1"
+"Obs 2"
+"Obs 3"
+"Obs 4"
+"Obs 5"
+""
+"Element 1"
+"Element 2"
+"Element 3"
+6
+dummy, 0  0  0  0  0  0  0 
+Element 1, 0  .05  50  60  45  50  55 
+Element 2, 0  .01  25  0  24  25  29 
+Element 3, 0  .1  10  9  11  10  9 
+-1,-1
+"done"
+""

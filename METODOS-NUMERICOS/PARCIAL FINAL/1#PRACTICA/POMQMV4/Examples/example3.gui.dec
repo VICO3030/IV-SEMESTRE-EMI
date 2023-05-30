@@ -1,0 +1,48 @@
+7,1,3,1000,"Decision Tree- Graphical User Interface"
+"POM-QM for Windows 3.0 Build 8"
+1,1,0,0,0,0,0
+0,1,0,0,1,0,0
+2,#FALSE#,0,0,0,0,0,0
+13,9
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+""
+"Decision 1"
+"Decision 2"
+"Event 3"
+"Event 4"
+"Event 5"
+"Event 6"
+"Decision 3"
+"Decision 4"
+"Decision 5"
+"Decision 6"
+"Event 7"
+"Event 8"
+9
+dummy, 0  0  0  0  0  0  0  0  0  0 
+dummy, 0  0  1  2  0  0  0  0 -1  1 
+Decision 1, 0  1  2  2  1  1  0  0  0  2 
+Decision 2, 0  1  3  2  1  2  0  0  0  2 
+Event 3, 0  2  4  2  2  1  .6  0 -1  3 
+Event 4, 0  2  5  0  2  2  .4  400 -1  3 
+Event 5, 0  3  6  2  3  1  .7  0 -1  3 
+Event 6, 0  3  7  0  3  2  .3  500 -1  3 
+Decision 3, 0  4  8  0  4  1  0  300  0  4 
+Decision 4, 0  4  9  0  4  2  0  200  0  4 
+Decision 5, 0  6  10  0  6  1  0  400  0  4 
+Decision 6, 0  6  11  2  6  2  0 -100  0  4 
+Event 7, 0  11  12  0  11  1  .5  750 -1  5 
+Event 8, 0  11  13  0  11  2  .5  350 -1  5 
+-1,-1
+"done"
+"This software contains two models for decision trees. This model has a graphical user interface rather than the usual data table."

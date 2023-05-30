@@ -1,0 +1,20 @@
+7,1,1,1000,"Example 2 - part b: Using cost-volume analysis for traditional breakeven"
+"POM-QM for Windows 3.0 Build 11"
+1,-1,0,-1,0,0,0
+0,1,0,0,1,0,0
+4,#TRUE#,0,0,0,0,0,0
+2,3
+""
+"Cost Type"
+"Costs"
+"Revenues"
+""
+"Cost 1"
+"Cost 2"
+3
+dummy, 0  0  0  0 
+Cost 1, 0  1  10000  0 
+Cost 2, 0  2  20  25 
+-1,-1
+"done"
+"This is an alternative way to perform standard breakeven analysis by using the cost-volume submodel. Select two options and let one be the costs and one be the revenues. Place the fixed costs and variable costs in their obvious cells, use no fixed cost for the revenue and use the revenue per unit as a variable cost."

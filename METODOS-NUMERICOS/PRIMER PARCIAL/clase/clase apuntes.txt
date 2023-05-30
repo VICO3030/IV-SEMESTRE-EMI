@@ -1,0 +1,27 @@
+	***APUNTES METODOS NUMERICOS 21/07/2022***
+
+VERIFICAR Y CUANTIFICAR
+
+	-->Errores de entrada :Se realizan en experimentos en l aboratorio , (velocidad o el mach de un avion) , depende  a las condiciones que nos
+	encontramos 
+	-->Errores de algoritmo 
+	-->Errores de truncamiento : metodos numericos es un conjunto de tecnicas para ayudarnos a facilitar operaciones complejos de matematicas 
+	irracionales = los que son finitos 
+	periodicos
+	
+	MACH = TAS/LSS
+	son bastantessignificativos , como podemos verificar el que tiene mayor y menor error 
+	E=| (Vv-Va)  /Vv|*100;
+
+	ERROR DE APROXIMACION	
+	
+	Numero 		| 3.9385 | 10.4597  | -20.0803 | 0.0994
+	Decimales	3.9	  10.5		-20.1	  0.1
+	centesimas	3.94	  10.46		-20.08    0.10
+	Milesimas	3.939	  10.468	-20.080	  0.099
+
+	concepto de exactitudy presicion
+	Magnitud del error
+ 	cuantificamos el error 
+
+	EJEMPLO

@@ -1,0 +1,29 @@
+7.2,1,0,1000,"Example 1"
+"POM for Windows 3.2 Build 62"
+1,1,0,0,0,0,0
+0,0,0,0,0,0,0
+2,#TRUE#,0,0,0,0,0,0
+6,4
+""
+"Date received"
+"Training time"
+"Due Date"
+"# Opns"
+"Crit rat - (due date-today)/processing time"
+"Janet"
+"Barry"
+"Alexis"
+"Sammy"
+"Lisa"
+"Ernie"
+4
+Crit rat - (due date-today)/processing time, 8  3  0  0  0 
+Janet, 1  0  3  4  2 
+Barry, 2  0  5  7  4 
+Alexis, 3  0  4  13  1 
+Sammy, 4  0  7  10  2 
+Lisa, 5  0  9  15  1 
+Ernie, 6  0  2  5  3 
+-1,-1
+"done"
+"Please note that the end of 1 day is equivalent to the beginning of another day. Day 0 means the end of day 0 which is the same as the beginning of day 1. Thus, 0 and 1 are treated as the same."

@@ -1,0 +1,22 @@
+7,1,2,1000,"Example 2"
+"POM-QM for Windows 3.0 Build 8"
+1,-1,0,-1,0,0,0
+0,1,0,0,1,0,0
+4,#TRUE#,0,0,0,0,0,0
+3,3
+""
+"Cost Type"
+"Costs"
+"Revenues"
+""
+"Fixed Costs"
+"Variable costs"
+"Revenue per unit"
+3
+dummy, 0  0  0  0 
+Fixed Costs, 0  1  10000  0 
+Variable costs, 0  2  20  0 
+Revenue per unit, 0  2  0  25 
+-1,-1
+"done"
+"The next example, example2a, displays an alternative means to solve this standard breakeven problem. The alternative uses the cost-volume submodel rather than the breakeven submodel."

@@ -1,0 +1,23 @@
+7,1,0,1000,"Example 1: An integer program"
+"POM-QM for Windows 3.0 Build 11"
+1,1,0,0,0,0,0
+0,1,0,0,1,0,0
+2,#TRUE#,0,0,0,0,0,0
+3,4
+""
+"X1"
+"X2"
+" "
+"RHS"
+"Maximize"
+"Constraint 1"
+"Constraint 2"
+"Variable type"
+4
+Maximize, 0  350  500  0  0 
+Constraint 1, 0  1  1.5  1  15 
+Constraint 2, 0 -1  4  3  0 
+Variable type, 0  1  1  1  1 
+-1,-1
+"done"
+""

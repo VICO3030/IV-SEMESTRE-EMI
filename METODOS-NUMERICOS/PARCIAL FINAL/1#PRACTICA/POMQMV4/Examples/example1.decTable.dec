@@ -1,0 +1,24 @@
+7,1,1,1000,"Example 1"
+"POM-QM for Windows 3.0 Build 8"
+1,1,.4,-1,0,0,0
+0,1,0,0,1,0,0
+4,#TRUE#,0,0,0,0,0,0
+3,5
+""
+"Low demand"
+"Regular dem"
+"High demand"
+" Strike"
+"Slowdwn"
+"Probabilities"
+"Subcontract"
+"Overtime"
+"Parttime help"
+5
+Probabilities, 1  .2  .3  .25  .15  .1 
+Subcontract, 0  100  120  140  120  130 
+Overtime, 0  120  150  180  10  90 
+Parttime help, 0  105  130  190  50  80 
+-1,-1
+"done"
+"To set all of the probabilities equal, type an '="" in any of the columns for a probability."

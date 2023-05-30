@@ -1,0 +1,18 @@
+7,1,0,1000,"Example 1"
+"POM-QM for Windows 3.0 Build 8"
+1,0,3,0,0,0,0
+0,0,0,0,0,0,0
+4,#TRUE#,0,0,0,0,0,0
+3,4
+""
+"State 1"
+"State 2"
+"State 3"
+4
+dummy, 0  0  0  0  0 
+State 1, 0  .33333  .7  .1  .2 
+State 2, 0  .33333  .05  .85  .1 
+State 3, 0  .33333  .05  .05  .9 
+-1,-1
+"done"
+"The initial column can use either probabilities as shown here or counts as shown in the next example."

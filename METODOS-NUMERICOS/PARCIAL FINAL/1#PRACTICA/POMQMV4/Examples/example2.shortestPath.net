@@ -1,0 +1,40 @@
+7,1,2,1000,"Shortest Path"
+"POM-QM for Windows 3.0 Build 8"
+1,1,1,9,0,0,0
+0,1,0,0,1,0,0
+4,#TRUE#,0,0,0,0,0,0
+14,3
+""
+"Branch 1"
+"Branch 2"
+"Branch 3"
+"Branch 4"
+"Branch 5"
+"Branch 6"
+"Branch 7"
+"Branch 8"
+"Branch 9"
+"Branch 10"
+"Branch 11"
+"Branch 12"
+"Branch 13"
+"Branch 14"
+3
+dummy, 0  0  0  0 
+Branch 1, 0  1  2  20 
+Branch 2, 0  1  3  18 
+Branch 3, 0  1  4  25 
+Branch 4, 0  2  3  7 
+Branch 5, 0  2  5  15 
+Branch 6, 0  3  4  9 
+Branch 7, 0  3  5  27 
+Branch 8, 0  3  6  33 
+Branch 9, 0  4  8  70 
+Branch 10, 0  5  6  63 
+Branch 11, 0  5  7  34 
+Branch 12, 0  6  8  35 
+Branch 13, 0  7  9  45 
+Branch 14, 0  8  9  27 
+-1,-1
+"done"
+"If you don't select an origina and destination the software will use the lowest numbered node as the origin and the highest numbered node as the destination."

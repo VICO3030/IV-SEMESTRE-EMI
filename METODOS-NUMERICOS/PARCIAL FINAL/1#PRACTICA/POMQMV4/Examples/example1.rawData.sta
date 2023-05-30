@@ -1,0 +1,22 @@
+7,1,1,1000,"Example 1: Raw data"
+"POM-QM for Windows 3.0 Build 20"
+1,1,10,-1,0,0,0
+0,1,0,0,1,0,0
+4,#TRUE#,0,0,0,0,0,0
+5,2
+""
+"Item 1"
+"Item 2"
+"Item 3"
+"Item 4"
+"Item 5"
+2
+dummy, 0  0  0 
+Item 1, 0  18 -17.8 
+Item 2, 0  34 -1.799999 
+Item 3, 0  25 -10.8 
+Item 4, 0  87  51.2 
+Item 5, 0  15 -20.8 
+-1,-1
+"done"
+""

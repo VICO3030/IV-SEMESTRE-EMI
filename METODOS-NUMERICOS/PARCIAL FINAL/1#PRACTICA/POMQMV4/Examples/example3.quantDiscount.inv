@@ -1,0 +1,28 @@
+7,1,5,1000,"Example 3: Quantity Discounts"
+"POM-QM for Windows 3.0 Build 11"
+1,1,0,0,0,0,0
+0,1,0,0,1,0,0
+4,#TRUE#,0,0,0,0,0,0
+8,3
+"Model"
+"Demand rate(D)"
+"Setup/Ordering cost(S)"
+"Holding cost(H)"
+""
+"Price Ranges"
+"Range 1"
+"Range 2"
+"Range 3"
+3
+Model, 0  0  0  0 
+Demand rate(D), 0  100  0  0 
+Setup/Ordering cost(S), 0  40  0  0 
+Holding cost(H), 0 -20  0  0 
+dummy, 0  0  0  0 
+Price Ranges, 0  0  0  0 
+Range 1, 0  1  11  100 
+Range 2, 0  12  23  99 
+Range 3, 0  24  999999  98 
+-1,-1
+"done"
+""

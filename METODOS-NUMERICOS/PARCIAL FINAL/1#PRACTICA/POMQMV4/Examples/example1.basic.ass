@@ -1,0 +1,37 @@
+7,1,0,1000,"Assignment Example"
+"POM-QM for Windows 3.0 Build 8"
+1,2,0,0,0,0,0
+0,1,0,0,1,0,0
+4,#TRUE#,0,0,0,0,0,0
+8,8
+""
+"Mort"
+"Cippy"
+"Bruce"
+"Beth"
+"Lauren"
+"Eddie"
+"Brian"
+"Machine 8"
+""
+"Pennsylvania"
+"New Jersey"
+"New York"
+"Florida"
+"Canada"
+"Mexico"
+"Europe"
+"Job 8"
+8
+dummy, 0  0  0  0  0  0  0  0  0 
+Pennsylvania, 0  12  54  9999  87  54  89  98  1 
+New Jersey, 0  33  45  87  27  34  76  65  1 
+New York, 0  12  54  76  23  87  44  62  1 
+Florida, 0  15  37  37  65  26  96  23  1 
+Canada, 0  42  32  18  77  23  56  87  1 
+Mexico, 0  58  71  78  76  82  90  44  1 
+Europe, 0  12  34  65  23  44  23  12  1 
+Job 8, 0  1  1  1  1  1  1  1  1 
+-1,-1
+"done"
+"We are not allowed to assign Pennsylvania to Bruce so we have typed 'x' which has placed a high cost into the cell. This high cost will preclude the assignment from being made."

@@ -1,0 +1,26 @@
+7,1,0,1000,"Example 2: Mixed integer programming"
+"POM-QM for Windows 3.0 Build 11"
+1,1,0,0,0,0,0
+0,1,0,0,1,0,0
+4,#TRUE#,0,0,0,0,0,0
+4,5
+""
+"x"
+"y"
+"z"
+" "
+"RHS"
+"Maximize"
+"Constraint 1"
+"Constraint 2"
+"Constraint 3"
+"Variable type"
+5
+Maximize, 0  30  33  50  0  0 
+Constraint 1, 0  23  43  16  1  1000 
+Constraint 2, 0  32  33  25  1  2500 
+Constraint 3, 0  43  53  26  1  1500 
+Variable type, 0  1  2  3  1  1 
+-1,-1
+"done"
+""

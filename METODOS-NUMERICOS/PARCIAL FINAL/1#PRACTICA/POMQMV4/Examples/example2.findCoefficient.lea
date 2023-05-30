@@ -1,0 +1,16 @@
+7,1,2,1000,"Example 2: Finding the learning curve coefficient"
+"POM-QM for Windows 3.0 Build 11"
+1,-1,0,0,0,0,0
+0,1,0,0,1,0,0
+4,#TRUE#,0,0,0,0,0,0
+5,1
+1
+dummy, 0  0 
+dummy, 0  0 
+dummy, 0  4 
+dummy, 0  73 
+dummy, 0  37 
+dummy, 0  68 
+-1,-1
+"done"
+""

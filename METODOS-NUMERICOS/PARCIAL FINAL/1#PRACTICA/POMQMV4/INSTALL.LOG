@@ -1,0 +1,345 @@
+***  Installation Started 09/06/2020 23:00  ***
+Title: POM-QM for Windows V4 Installation
+Source: C:\Users\User\Desktop\QM for windows7.exe
+File Overwrite: C:\Windows\System32\SSDW3B32.OCX
+File Copy: C:\Program Files (x86)\POMQMV4\UNWISE.EXE
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\QM for Windows (Version 4)
+RegDB Val: QM for Windows (Version 4)
+RegDB Name: DisplayName
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\QM for Windows (Version 4)
+RegDB Val: C:\PROGRA~2\POMQMV4\UNWISE.EXE C:\PROGRA~2\POMQMV4\INSTALL.LOG
+RegDB Name: UninstallString
+RegDB Root: 2
+File Overwrite: C:\Windows\System32\ActBar.ocx
+File Overwrite: C:\Windows\System32\SSDW3B32.OCX
+Backup Copy: C:\Program Files (x86)\POMQMV4\BACKUP\ssdw3b32.002
+File Overwrite: C:\Windows\System32\SSMEDT32.DLL
+File Overwrite: C:\Windows\System32\ssprn32.dll
+Version: Following file not copied.
+File Overwrite: C:\Windows\System32\comctl32.ocx
+Version: Following file not copied.
+File Overwrite: C:\Windows\System32\comdlg32.ocx
+Version: Following file not copied.
+ File Overwrite: C:\Windows\System32\linkinfo.dll
+File Overwrite: C:\Windows\System32\mfc40.dll
+Backup Copy: C:\Program Files (x86)\POMQMV4\BACKUP\MFC40.002
+File Copy: C:\Windows\System32\MSOUTL32.OCX
+Version: Following file not copied.
+File Overwrite: C:\Windows\System32\msvcrt.dll
+Version: Following file not copied.
+File Overwrite: C:\Windows\System32\tabctl32.ocx
+File Copy: C:\Program Files (x86)\POMQMV4\Random.hzr
+File Copy: C:\Program Files (x86)\POMQMV4\phweb.htm
+File Copy: C:\Program Files (x86)\POMQMV4\readme.txt
+File Copy: C:\Program Files (x86)\POMQMV4\phdefault.v4.tb
+File Copy: C:\Program Files (x86)\POMQMV4\cnvToExcelV4.exe
+File Copy: C:\Program Files (x86)\POMQMV4\excelsheets.v4.xla
+File Copy: C:\Program Files (x86)\POMQMV4\pomqmv4.exe
+File Copy: C:\Program Files (x86)\POMQMV4\POMQMv4.chm
+File Overwrite: C:\Program Files (x86)\POMQMV4\POMQMV4.chm
+Backup Copy: C:\Program Files (x86)\POMQMV4\BACKUP\POMQMV4.002
+File Copy: C:\Program Files (x86)\POMQMV4\normalv4.chm
+File Copy: C:\Program Files (x86)\POMQMV4\normalv4.exe
+File Copy: C:\Program Files (x86)\POMQMV4\Manual.pdf
+File Copy: C:\Program Files (x86)\POMQMV4\Manual.doc
+File Copy: C:\Program Files (x86)\POMQMV4\sqcdata.txt
+File Copy: C:\Program Files (x86)\POMQMV4\POMQMv4.lic
+Made Dir: C:\Program Files (x86)\POMQMV4\Tutorials
+File Copy: C:\Program Files (x86)\POMQMV4\Tutorials\\POMQM.Colors.exe
+File Copy: C:\Program Files (x86)\POMQMV4\Tutorials\\POMQM.CopyandPaste.exe
+File Copy: C:\Program Files (x86)\POMQMV4\Tutorials\\POMQM.FormatToolbar.exe
+File Copy: C:\Program Files (x86)\POMQMV4\Tutorials\\POMQM.Graphs.exe
+File Copy: C:\Program Files (x86)\POMQMV4\Tutorials\\POMQM.Modules.exe
+File Copy: C:\Program Files (x86)\POMQMV4\Tutorials\\POMQM.Normal.exe
+File Copy: C:\Program Files (x86)\POMQMV4\Tutorials\\POMQM.Printing.exe
+File Copy: C:\Program Files (x86)\POMQMV4\Tutorials\\POMQM.SampleProblem.exe
+File Copy: C:\Program Files (x86)\POMQMV4\Tutorials\\POMQM.Screen.exe
+File Copy: C:\Program Files (x86)\POMQMV4\Tutorials\\POMQM.StandardToolbar.exe
+File Copy: C:\Program Files (x86)\POMQMV4\Tutorials\\POMQM.StepLP.exe
+File Copy: C:\Program Files (x86)\POMQMV4\Tutorials\\POMQM.StepTrans.exe
+File Copy: C:\Program Files (x86)\POMQMV4\Tutorials\\POMQM.UserPreferences.exe
+File Copy: C:\Program Files (x86)\POMQMV4\Tutorials\\POMQM.UtilityToolbar.exe
+Made Dir: C:\Program Files (x86)\POMQMV4\Examples
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\dieRoll.sim
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example1.basic.ass
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example1.basic.GAM
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example1.basic.GAM.xls
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example1.basic.lay
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example1.basic.LIN
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example1.basic.LOT
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example1.basic.prd
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example1.basic.SIM
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example1.basic.tra
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example1.closedRecurrent.mar
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example1.computingTimes.lea
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example1.costVolume.bre
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example1.cycle time given.BAL
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example1.decTable.dec
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example1.decTable.dec.xlsx
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example1.eoq.INV
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example1.FactorRating.loc
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example1.integer.mix
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example1.minSpanTree.net
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example1.mixedNetwork.rel
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example1.MovAvg.for
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example1.MovAvg.for.xlsx
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example1.npv.cap
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example1.PERT.pro
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example1.PERT.pro.xlsx
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example1.priorities.GOA
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example1.rawData.sta
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example1.singleServer.wai
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example1.singleServer.wai.bw.htm
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example1.singleServer.wai.htm
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example1.smooth.AGG
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example1.smooth.AGG.xls
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example1.timeStudy.wor
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example2.backups.rel
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example2.computeCycleTime.BAL
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example2.constantService.wai
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example2.CPM.pro
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example2.findCoefficient.lea
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example2.fixingDepartments.lay
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example2.groupedData.sta
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example2.irr.cap
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example2.mixed.mix
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example2.mixedStates.mar
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example2.production.inv
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example2.sampleSize.wor
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example2.shortestPath.net
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example2.standardBreakeven.BRE
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example2.startingInv.agg
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example2.step.tra
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example2.weights.goa
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example2.WtdMovAvg.for
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example2.WtdMovAvg.for.xlsx
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example2b.alternativeStandardBreakeven.BRE
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example3.2dimensional.loc
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example3.crashing.pro
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example3.expoSmooth.for
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example3.generalService.wai
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example3.gui.dec
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example3.identicalComponents.rel
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example3.longestWillNotFit.bal
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example3.maxFlow.net
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example3.multipleOptions.BRE
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example3.OT&sub.agg
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example3.p-chart.centerLineSet.qua
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example3.p-chart.qua
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example3.quantDiscount.inv
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example3.workSampling.wor
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example3b.exponentialAsGeneral.wai
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example3c.constantAsGeneral.wai
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example4.abc.inv
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example4.budgeting.pro
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example4.costVolume.loc
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example4.Erlang-k.wai
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example4.expoSmoothWithTrend.for
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example4.probabilityDistribution.sta
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example4.splittingTasks.bal
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example4.subBetter.agg
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example4.x-bar-chart.qua
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example4b.exponentialAsErlang.wai
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example5.lostSales.agg
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example5.multipleServers.wai
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example5.NormalDistribution.sta
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example5.trendAnalysis.for
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example5.trendAnalysis.for.xls
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example5.xBar-rawData.qua
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example6.c-chart.centerLineSet.qua
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example6.c-chart.qua
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example6.linReg.FOR
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example6.produceToDemand.agg
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example7.decomp.for
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example7.increase&decrease.agg
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example7.processCapability.qua
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example8.costs.wai
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example8.multipleRegression.for
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example8.transportation.agg
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example9.2Machine.JOB
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example9.projecting.for
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example9.transportation.withShortages.agg
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\examplex10.errorAnalysis.for
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\mincostBadStep.tra
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\pray.xlsx
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\Book1.xlsx
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example1.1Machine.job
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example1.acceptSamp.qua
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example1.basic.mat
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example2.1Dimensional.LOC
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example2.decTree.dec
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example2.fullFeatured.mat
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example2.startingDay.job
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example2.variablesSamp.qua
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example3.slack.job
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example4.inventory.dec
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example5.reorderNormal.INV
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example6.finiteQueue.wai
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example6.moore.job
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example6.reorderDiscrete.INV
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example7.finitePopulation.wai
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example7.finitePopulation.wai.xlsx
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\example8.criticalRatio.job
+File Overwrite: C:\Program Files (x86)\POMQMV4\Examples\\pray.xlsx
+Backup Copy: C:\Program Files (x86)\POMQMV4\BACKUP\pray.002
+File Copy: C:\Program Files (x86)\POMQMV4\Examples\\prayexample7.finitePopulation.wai.xlsx
+File Copy: C:\Program Files (x86)\POMQMV4\pomqmv4.template.htm
+Made Dir: C:\Users\User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\POM-QM for Windows 4
+Shell Link: C:\Users\User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\POM-QM for Windows 4\POM-QM for Windows 4.lnk
+Shell Link: C:\Users\User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\POM-QM for Windows 4\Normal Distribution Calculator.lnk
+Shell Link: C:\Users\User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\POM-QM for Windows 4\POM-QM for Windows 4 Help.lnk
+Shell Link: C:\Users\User\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\POM-QM for Windows 4\Prentice Hall Web Site Gateway.lnk
+File Copy: C:\Program Files (x86)\POMQMV4\qm4start.exe
+Shell Link: C:\Users\User\Desktop\QM for Windows V4.lnk
+RegDB Key: Software\VB and VBA Program Settings\pomqmv4\registration
+RegDB Val: 
+RegDB Root: 1
+RegDB Key: Software\VB and VBA Program Settings\pomqmv4\registration
+RegDB Val: 4
+RegDB Name: booknumber
+RegDB Root: 1
+RegDB Key: Software\VB and VBA Program Settings\pomqmv4\registration
+RegDB Val: 
+RegDB Name: course
+RegDB Root: 1
+RegDB Key: Software\VB and VBA Program Settings\pomqmv4\registration
+RegDB Val: 
+RegDB Name: professor
+RegDB Root: 1
+RegDB Key: Software\VB and VBA Program Settings\pomqmv4\registration
+RegDB Val: 
+RegDB Name: university
+RegDB Root: 1
+RegDB Key: Software\VB and VBA Program Settings\pomqmv4\registration
+RegDB Val: User
+RegDB Name: username
+RegDB Root: 1
+RegDB Key: Software\VB and VBA Program Settings\pomqmv4\registration
+RegDB Val: STUDENT
+RegDB Name: usertype
+RegDB Root: 1
+RegDB Key: Software\VB and VBA Program Settings\pomqmv4\registration
+RegDB Val: Taylor's Introduction to Management Science Textbook
+RegDB Name: bookname
+RegDB Root: 1
+RegDB Key: Software\VB and VBA Program Settings\pomqmv4\registration
+RegDB Val: C:\Windows
+RegDB Name: windows
+RegDB Root: 1
+RegDB Key: Software\VB and VBA Program Settings\pomqmv4\registration
+RegDB Val: C:\Windows\system32
+RegDB Name: windowsSys
+RegDB Root: 1
+RegDB Key: Software\VB and VBA Program Settings\pomqmv4\registration
+RegDB Val: False
+RegDB Name: myomlab
+RegDB Root: 1
+RegDB Key: pomqmv4.document
+RegDB Val: pomqmv4 Document
+RegDB Key: pomqmv4.document
+RegDB Val: pomqmv4 Document
+RegDB Old: pomqmv4 Document
+RegDB Key: pomqmv4.document\shell
+RegDB Val: 
+RegDB Key: pomqmv4.document\shell\open
+RegDB Val: 
+RegDB Key: pomqmv4.document\shell\open\command
+RegDB Val: 
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\QM for Windows (Version 4)
+RegDB Val: Prentice-Hall
+RegDB Name: Publisher
+RegDB Root: 2
+RegDB Key: Software\Microsoft\Windows\CurrentVersion\Uninstall\QM for Windows (Version 4)
+RegDB Val: www.prenhall.com/weiss
+RegDB Name: URLInfoAbout
+RegDB Root: 2
+RegDB Key: .ass
+RegDB Val: pomqmV4.Document
+RegDB Key: pomqmV4.Document
+RegDB Val: pomqmV4 Document
+RegDB Old: pomqmv4 Document
+RegDB Key: pomqmV4.Document\shell\open\command
+RegDB Val: C:\PROGRA~2\POMQMV4\pomqmV4.exe %1
+RegDB Key: Software\VB and VBA Program Settings\pomqmv4\registration
+RegDB Val: 
+RegDB Root: 1
+RegDB Key: .ass
+RegDB Val: pomqmv4.Document
+RegDB Old: pomqmV4.Document
+RegDB Key: .agg
+RegDB Val: pomqmv4.Document
+RegDB Key: .bal
+RegDB Val: pomqmv4.Document
+RegDB Key: .bre
+RegDB Val: pomqmv4.Document
+RegDB Key: .cap
+RegDB Val: pomqmv4.Document
+RegDB Key: .dec
+RegDB Val: pomqmv4.Document
+RegDB Key: .for
+RegDB Val: pomqmv4.Document
+RegDB Key: .gam
+RegDB Val: pomqmv4.Document
+RegDB Key: .goa
+RegDB Val: pomqmv4.Document
+RegDB Key: .int
+RegDB Val: pomqmv4.Document
+RegDB Key: .inv
+RegDB Val: pomqmv4.Document
+RegDB Key: .job
+RegDB Val: pomqmv4.Document
+RegDB Old: JobObject
+RegDB Key: .lay
+RegDB Val: pomqmv4.Document
+RegDB Key: .lea
+RegDB Val: pomqmv4.Document
+RegDB Key: .lin
+RegDB Val: pomqmv4.Document
+RegDB Key: .loc
+RegDB Val: pomqmv4.Document
+RegDB Key: .lot
+RegDB Val: pomqmv4.Document
+RegDB Key: .mar
+RegDB Val: pomqmv4.Document
+RegDB Old: Access.Shortcut.Report.1
+RegDB Key: .mat
+RegDB Val: pomqmv4.Document
+RegDB Old: Access.Shortcut.Table.1
+RegDB Key: .mix
+RegDB Val: pomqmv4.Document
+RegDB Key: .net
+RegDB Val: pomqmv4.Document
+RegDB Key: .prd
+RegDB Val: pomqmv4.Document
+RegDB Key: .pro
+RegDB Val: pomqmv4.Document
+RegDB Key: .qua
+RegDB Val: pomqmv4.Document
+RegDB Key: .rel
+RegDB Val: pomqmv4.Document
+RegDB Key: .sim
+RegDB Val: pomqmv4.Document
+RegDB Key: .sta
+RegDB Val: pomqmv4.Document
+RegDB Key: .tra
+RegDB Val: pomqmv4.Document
+RegDB Key: .wai
+RegDB Val: pomqmv4.Document
+RegDB Key: .wor
+RegDB Val: pomqmv4.Document
+Self-Register: C:\Windows\System32\msvbvm60.dll
+Self-Register: C:\Windows\System32\mfc42.dll
+Self-Register: C:\Windows\System32\mscomctl.ocx
+Self-Register: C:\Windows\System32\comdlg32.ocx
+Self-Register: C:\Windows\System32\SSDW3B32.OCX
+Self-Register: C:\Windows\System32\ActBar.ocx
+Self-Register: C:\Windows\System32\SSDW3B32.OCX
+Self-Register: C:\Windows\System32\SSMEDT32.DLL
+Self-Register: C:\Windows\System32\ssprn32.dll
+Self-Register: C:\Windows\System32\comctl32.ocx
+Self-Register: C:\Windows\System32\comdlg32.ocx
+Self-Register: C:\Windows\System32\mfc40.dll
+Self-Register: C:\Windows\System32\MSOUTL32.OCX
+Self-Register: C:\Windows\System32\tabctl32.ocx
+User Rights: Admin

@@ -1,0 +1,20 @@
+7,1,1,1000,"Example 1 - Acceptance Sampling"
+"POM-QM for Windows 3.0 Build 8"
+1,-1,0,0,0,0,0
+0,1,0,0,1,0,0
+4,#TRUE#,0,0,0,0,0,0
+4,1
+""
+"AQL"
+"LTPD"
+"ALPHA"
+"BETA"
+1
+dummy, 0  0 
+AQL, 0  .01 
+LTPD, 0  .05 
+ALPHA, 0  1 
+BETA, 0  1 
+-1,-1
+"done"
+""

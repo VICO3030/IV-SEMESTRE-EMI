@@ -1,0 +1,17 @@
+7,1,1,1000,"Example 1"
+"POM-QM for Windows 3.0 Build 8"
+1,0,1,-1,0,0,0
+0,1,0,0,1,0,0
+4,#TRUE#,0,0,0,0,0,0
+6,4
+4
+dummy, 0  0  0  0  0 
+Component, 0  .99  0  .9  .96 
+Backup 1, 0  0  0  .8  .96 
+Backup 2, 0  0  .99  .8  .92 
+Backup 3, 0  0  0  .7  0 
+Backup 4, 0  0  0  .7  0 
+Backup 5, 0  0  0  .6  0 
+-1,-1
+"done"
+""

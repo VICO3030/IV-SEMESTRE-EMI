@@ -1,0 +1,18 @@
+7,1,2,1000,"Example 2 - Production model with holding cost as a percentage"
+"POM-QM for Windows 3.0 Build 11"
+1,1,300,0,0,0,0
+0,1,0,0,1,0,0
+4,#TRUE#,0,0,0,0,0,0
+7,1
+1
+Model, 0  0 
+Demand rate(D), 0  10000 
+Setup/Ordering cost(S), 0  25 
+Holding cost(H), 0 -20 
+Daily production rate(p), 0  80 
+Days per year(optional), 0  250 
+Daily demand rate(d), 0  0 
+Unit cost, 0  90 
+-1,-1
+"done"
+"Be very careful when entering the holding cost. The holding cost may be gven as a percent, such as the 20% of unit cost per year displayed here or it may be given as a fixed dollar amount per unit as in the previous example."

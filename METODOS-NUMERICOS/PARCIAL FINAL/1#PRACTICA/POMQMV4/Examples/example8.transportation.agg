@@ -1,0 +1,25 @@
+7,1,2,1000,"Example 8: Aggregate planning as a transportation model"
+"POM-QM for Windows 3.0 Build 8"
+1,1,0,0,0,0,0
+0,1,0,0,1,0,0
+2,#TRUE#,0,0,0,0,0,0
+4,7
+""
+"Spring"
+"Summer"
+"Fall"
+"Winter"
+7
+dummy, 0  0  0  0  0  0  0  0 
+Spring, 27  800  800  100  750  0  0  27 
+Summer, 34  1000  800  100  750  0  0  34 
+Fall, 60  900  800  100  750  0  0  60 
+Winter, 5  1200  800  100  750  0  0  5 
+dummy, 0  0  800  100  750  0  0  0 
+dummy, 0  0  800  100  750  0  0  0 
+dummy, 0  0  800  100  750  0  0  0 
+dummy, 25  0  800  100  750  0  0  25 
+dummy, 0  0  800  100  750  0  0  0 
+-1,-1
+"done"
+""

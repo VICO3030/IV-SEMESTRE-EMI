@@ -1,0 +1,48 @@
+7,1,0,1000,"Example 1"
+"POM-QM for Windows 3.0 Build 25"
+2,1,5000,-1,0,0,0
+0,1,0,0,1,0,0
+4,#TRUE#,0,0,0,0,0,0
+14,7
+"Flow Table"
+"Room 1"
+"Room 2"
+"Room 3"
+"Room 4"
+"Room 5"
+"Room 6"
+""
+"Flow Table"
+"Materials"
+"Welding"
+"Drills"
+"Lathes"
+"Grinders"
+"Benders"
+"Fixed room"
+"Dept 8"
+"Dept 9"
+"Dept 10"
+"Dept 11"
+"Dept 12"
+"Dept 13"
+"Dept 14"
+7
+Flow Table, 0  0  0  0  0  0  0  0 
+Materials, 0  0  100  50  0  0  50  0 
+Welding, 0  25  0  0  50  0  0  0 
+Drills, 0  25  0  0  0  50  0  0 
+Lathes, 0  0  25  0  0  20  0  0 
+Grinders, 0  50  0  100  0  0  0  0 
+Benders, 0  10  0  20  0  0  0  0 
+Fixed room, 0  0  0  0  0  0  0  0 
+Dept 8, 0  0  0  0  0  0  0  0 
+Dept 9, 0  0  20  40  20  40  60  0 
+Dept 10, 0  20  0  20  40  20  40  0 
+Dept 11, 0  40  20  0  60  40  20  0 
+Dept 12, 0  20  40  60  0  20  40  0 
+Dept 13, 0  40  20  40  20  0  20  0 
+Dept 14, 0  60  40  20  40  20  0  0 
+-1,-1
+"done"
+""

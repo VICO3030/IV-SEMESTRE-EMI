@@ -1,0 +1,18 @@
+7,1,3,1000,"Example 3c: Constant Service Times Expressed as an M/G/1 Queue"
+"POM-QM for Windows 3.0 Build 11"
+3,1,0,0,0,0,0
+0,1,0,0,1,0,0
+4,#TRUE#,0,0,0,0,0,0
+5,1
+1
+dummy, 0  0 
+dummy, 0  1 
+Arrival rate(lambda), 0  26 
+Service rate(mu), 0  30 
+Number of servers, 0  1 
+Standard deviation, 0  0 
+-1,-1
+"done"
+"The standard deviation of 0 makes this a constant service time model.
+
+Notice that we have entered an arrival rate of 26 customers per hour and  a service rate of 30 customers per hour. You must use a RATE and not a TIME for both. (The service time is 2 minutes if the service rate is 30 customers per hour)."

@@ -1,0 +1,16 @@
+7.2,1,8,1000,"Example 7: Finite Population Model"
+"POM for Windows 3.2 Build 62"
+8,1,0,0,3,0,0
+0,1,0,0,1,0,0
+4,#TRUE#,0,0,0,0,0,0
+5,1
+1
+dummy, 0  0 
+dummy, 0  6 
+Arvl rt PER CUSTOMER, 0  2 
+Service rate(mu), 0  30 
+Number of servers, 0  1 
+Population size, 0  13 
+-1,-1
+"done"
+"Each customer arrives at a rate of 2 times per hour (while not in the waiting line system). For example, each machine breaks down on average after 30 minutes of use (2 times per hour of use)."

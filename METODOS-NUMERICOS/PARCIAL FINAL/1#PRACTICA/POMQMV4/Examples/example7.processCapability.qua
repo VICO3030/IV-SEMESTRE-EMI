@@ -1,0 +1,20 @@
+7,1,7,1000,"Example 7: Process capability"
+"POM-QM for Windows 3.0 Build 11"
+1,-1,4,0,0,0,0
+0,1,0,0,1,0,0
+4,#TRUE#,0,0,0,0,0,0
+4,1
+""
+"Upper tolerance limit"
+"Lower tolerance limit"
+"Mean (optional)"
+"Standard deviation"
+1
+dummy, 0  0 
+Upper tolerance limit, 0  110 
+Lower tolerance limit, 0  90 
+Mean (optional), 0  105 
+Standard deviation, 0  5 
+-1,-1
+"done"
+""

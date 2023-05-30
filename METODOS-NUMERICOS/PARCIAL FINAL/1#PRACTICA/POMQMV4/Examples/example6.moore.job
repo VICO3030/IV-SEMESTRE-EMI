@@ -1,0 +1,29 @@
+7.2,1,0,1000,"Example 6"
+"POM for Windows 3.2 Build 62"
+6,1,1,0,0,0,0
+0,0,0,0,0,0,0
+2,#TRUE#,0,0,0,0,0,0
+6,4
+""
+"Date received"
+"Production time"
+"Due Date"
+"# Opns"
+"Crit rat - (due date-today)/processing time"
+"Janet"
+"Barry"
+"Alexis"
+"Sammy"
+"Lisa"
+"Ernie"
+4
+Crit rat - (due date-today)/processing time, 8  3  0  0  0 
+Janet, 1  1  3  4  2 
+Barry, 2  1  5  7  4 
+Alexis, 3  1  4  13  1 
+Sammy, 4  1  7  10  2 
+Lisa, 5  1  9  15  1 
+Ernie, 6  1  2  5  3 
+-1,-1
+"done"
+""

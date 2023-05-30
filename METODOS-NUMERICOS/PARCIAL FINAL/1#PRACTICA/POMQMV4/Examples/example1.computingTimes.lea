@@ -1,0 +1,16 @@
+7,1,1,1000,"Example 1"
+"POM-QM for Windows 3.0 Build 11"
+2,0,0,0,0,0,0
+0,0,0,0,0,0,0
+4,#TRUE#,0,0,0,0,0,0
+5,1
+1
+dummy, 0  0 
+dummy, 0  1 
+dummy, 0  1 
+dummy, 0  10 
+dummy, 0  20 
+dummy, 0  .9 
+-1,-1
+"done"
+"The base unit does not need to be unit 1 as displayed in the next example."

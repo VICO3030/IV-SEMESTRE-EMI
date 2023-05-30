@@ -1,0 +1,318 @@
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns="http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=us-ascii">
+<meta name=ProgId content=Word.Document>
+<meta name=Generator content="Microsoft Word 11">
+<meta name=Originator content="Microsoft Word 11">
+<link rel=File-List href="example1.singleServer.wai.bw_files/filelist.xml">
+<title>Example 1: The M/M/1 queue solution</title>
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>Howard J. Weiss</o:Author>
+  <o:LastAuthor>Howard J. Weiss</o:LastAuthor>
+  <o:Revision>2</o:Revision>
+  <o:TotalTime>1</o:TotalTime>
+  <o:Created>2005-07-12T13:36:00Z</o:Created>
+  <o:LastSaved>2005-07-12T13:36:00Z</o:LastSaved>
+  <o:Pages>1</o:Pages>
+  <o:Words>74</o:Words>
+  <o:Characters>423</o:Characters>
+  <o:Lines>3</o:Lines>
+  <o:Paragraphs>1</o:Paragraphs>
+  <o:CharactersWithSpaces>496</o:CharactersWithSpaces>
+  <o:Version>11.6408</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:Zoom>75</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+ </w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState="false" LatentStyleCount="156">
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	mso-fareast-font-family:"Times New Roman";}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+@page Section1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.Section1
+	{page:Section1;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman";
+	mso-ansi-language:#0400;
+	mso-fareast-language:#0400;
+	mso-bidi-language:#0400;}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext="edit" spidmax="2050"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext="edit">
+  <o:idmap v:ext="edit" data="1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=EN-US link=blue vlink=blue style='tab-interval:.5in'>
+
+<div class=Section1>
+
+<table class=MsoNormalTable border=1 cellspacing=0 cellpadding=0
+ style='mso-cellspacing:0in;background:#D8FEFE;border:outset 2.25pt;mso-padding-alt:
+ 1.8pt 1.8pt 1.8pt 1.8pt'>
+ <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
+  <td colspan=7 style='background:#E0DFE3;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal align=center style='text-align:center'><span
+  style='font-size:7.5pt;font-family:Arial;color:black'>Example 1: The M/M/1
+  queue solution</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:1'>
+  <td style='background:#E0DFE3;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal><span style='font-size:7.5pt;font-family:Arial;color:black'>Parameter</span></p>
+  </td>
+  <td style='background:#E0DFE3;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-size:7.5pt;font-family:Arial;color:black'>Value</span></p>
+  </td>
+  <td style='background:#E0DFE3;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-size:7.5pt;font-family:Arial;color:black'>&nbsp;</span></p>
+  </td>
+  <td style='background:#E0DFE3;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal><span style='font-size:7.5pt;font-family:Arial;color:black'>Parameter</span></p>
+  </td>
+  <td style='background:#E0DFE3;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-size:7.5pt;font-family:Arial;color:black'>Value</span></p>
+  </td>
+  <td style='background:#E0DFE3;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-size:7.5pt;font-family:Arial;color:black'>Minutes</span></p>
+  </td>
+  <td style='background:#E0DFE3;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-size:7.5pt;font-family:Arial;color:black'>Seconds</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:2'>
+  <td style='background:#E0DFE3;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal><span style='font-size:7.5pt;font-family:Arial;color:black'>M/M/1
+  (exponential service times)</span></p>
+  </td>
+  <td style='background:white;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-size:7.5pt;font-family:Arial;color:black'>&nbsp;</span></p>
+  </td>
+  <td style='background:black;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-size:7.5pt;font-family:Arial;color:black'>&nbsp;</span></p>
+  </td>
+  <td style='background:white;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal><span style='font-size:7.5pt;font-family:Arial;color:black'>Average
+  server utilization</span></p>
+  </td>
+  <td style='background:white;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-size:7.5pt;font-family:Arial;color:black'>.8667</span></p>
+  </td>
+  <td style='background:white;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-size:7.5pt;font-family:Arial;color:black'>&nbsp;</span></p>
+  </td>
+  <td style='background:white;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-size:7.5pt;font-family:Arial;color:black'>&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:3'>
+  <td style='background:#E0DFE3;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal><span style='font-size:7.5pt;font-family:Arial;color:black'>Arrival
+  rate(lambda)</span></p>
+  </td>
+  <td style='background:white;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-size:7.5pt;font-family:Arial;color:black'>26</span></p>
+  </td>
+  <td style='background:black;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-size:7.5pt;font-family:Arial;color:black'>&nbsp;</span></p>
+  </td>
+  <td style='background:white;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal><span style='font-size:7.5pt;font-family:Arial;color:black'>Average
+  number in the queue(<span class=SpellE>Lq</span>)</span></p>
+  </td>
+  <td style='background:white;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-size:7.5pt;font-family:Arial;color:black'>5.6333</span></p>
+  </td>
+  <td style='background:white;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-size:7.5pt;font-family:Arial;color:black'>&nbsp;</span></p>
+  </td>
+  <td style='background:white;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-size:7.5pt;font-family:Arial;color:black'>&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:4'>
+  <td style='background:#E0DFE3;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal><span style='font-size:7.5pt;font-family:Arial;color:black'>Service
+  rate(<span class=SpellE>mu</span>)</span></p>
+  </td>
+  <td style='background:white;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-size:7.5pt;font-family:Arial;color:black'>30</span></p>
+  </td>
+  <td style='background:black;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-size:7.5pt;font-family:Arial;color:black'>&nbsp;</span></p>
+  </td>
+  <td style='background:white;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal><span style='font-size:7.5pt;font-family:Arial;color:black'>Average
+  number in the system(Ls)</span></p>
+  </td>
+  <td style='background:white;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-size:7.5pt;font-family:Arial;color:black'>6.5</span></p>
+  </td>
+  <td style='background:white;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-size:7.5pt;font-family:Arial;color:black'>&nbsp;</span></p>
+  </td>
+  <td style='background:white;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-size:7.5pt;font-family:Arial;color:black'>&nbsp;</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:5'>
+  <td style='background:#E0DFE3;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal><span style='font-size:7.5pt;font-family:Arial;color:black'>Number
+  of servers</span></p>
+  </td>
+  <td style='background:white;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-size:7.5pt;font-family:Arial;color:black'>1</span></p>
+  </td>
+  <td style='background:black;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-size:7.5pt;font-family:Arial;color:black'>&nbsp;</span></p>
+  </td>
+  <td style='background:white;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal><span style='font-size:7.5pt;font-family:Arial;color:black'>Average
+  time in the queue(<span class=SpellE>Wq</span>)</span></p>
+  </td>
+  <td style='background:white;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-size:7.5pt;font-family:Arial;color:black'>.2167</span></p>
+  </td>
+  <td style='background:white;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-size:7.5pt;font-family:Arial;color:black'>13</span></p>
+  </td>
+  <td style='background:white;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-size:7.5pt;font-family:Arial;color:black'>780</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:6'>
+  <td style='background:#E0DFE3;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal><o:p>&nbsp;</o:p></p>
+  </td>
+  <td style='background:white;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-size:7.5pt;font-family:Arial;color:black'>&nbsp;</span></p>
+  </td>
+  <td style='background:black;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-size:7.5pt;font-family:Arial;color:black'>&nbsp;</span></p>
+  </td>
+  <td style='background:white;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal><span style='font-size:7.5pt;font-family:Arial;color:black'>Average
+  time in the system(Ws)</span></p>
+  </td>
+  <td style='background:white;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-size:7.5pt;font-family:Arial;color:black'>.25</span></p>
+  </td>
+  <td style='background:white;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-size:7.5pt;font-family:Arial;color:black'>15</span></p>
+  </td>
+  <td style='background:white;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal align=right style='text-align:right'><span
+  style='font-size:7.5pt;font-family:Arial;color:black'>900</span></p>
+  </td>
+ </tr>
+ <tr style='mso-yfti-irow:7;mso-yfti-lastrow:yes'>
+  <td width=195 style='width:117.0pt;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal><o:p>&nbsp;</o:p></p>
+  </td>
+  <td width=78 style='width:.65in;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal><o:p>&nbsp;</o:p></p>
+  </td>
+  <td width=12 style='width:.1in;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal><o:p>&nbsp;</o:p></p>
+  </td>
+  <td width=254 style='width:152.4pt;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal><o:p>&nbsp;</o:p></p>
+  </td>
+  <td width=74 style='width:44.4pt;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal><o:p>&nbsp;</o:p></p>
+  </td>
+  <td width=74 style='width:44.4pt;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal><o:p>&nbsp;</o:p></p>
+  </td>
+  <td width=74 style='width:44.4pt;padding:1.8pt 1.8pt 1.8pt 1.8pt'>
+  <p class=MsoNormal><o:p>&nbsp;</o:p></p>
+  </td>
+ </tr>
+</table>
+
+<p class=MsoNormal>Created by <a href="http://www.prenhall.com/weiss"><span
+style='color:windowtext'>POM-QM for Windows</span></a> </p>
+
+</div>
+
+</body>
+
+</html>

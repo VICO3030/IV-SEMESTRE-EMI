@@ -1,0 +1,32 @@
+7,1,3,1000,"Example 3: Two dimensional location/center of gravity"
+"POM-QM for Windows 3.0 Build 11"
+1,0,0,0,0,0,0
+0,1,0,0,1,0,0
+4,#TRUE#,0,0,0,0,0,0
+8,3
+""
+"Weight/trips"
+"EW coord"
+"NS coord"
+"SITES"
+"raw material 1"
+"raw material 2"
+"raw material 3"
+"customer 1"
+"customer 2"
+"potential site 1"
+"potential site 2"
+"Total"
+3
+SITES, 0  0  0  0 
+raw material 1, 0  70  132  123 
+raw material 2, 0  40  226  622 
+raw material 3, 0  50  140  41 
+customer 1, 0  90  99  75 
+customer 2, 0  70  321  33 
+potential site 1, 0  0  138  82 
+potential site 2, 0  0  185  40 
+Total, 0  320  1241  1016 
+-1,-1
+"done"
+""

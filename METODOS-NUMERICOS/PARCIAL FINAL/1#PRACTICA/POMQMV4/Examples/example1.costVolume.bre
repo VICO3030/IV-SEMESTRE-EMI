@@ -1,0 +1,26 @@
+7,1,1,1000,"Example 1 - Cost-volume example"
+"POM-QM for Windows 3.0 Build 8"
+1,-1,250,-1,0,0,0
+0,1,0,0,1,0,0
+4,#TRUE#,0,0,0,0,0,0
+5,3
+""
+"Cost Type"
+"Option 1"
+"Option 2"
+""
+"Lease"
+"Salary"
+"Material"
+"Labor"
+"Utilities"
+3
+dummy, 0  0  0  0 
+Lease, 0  1  800  700 
+Salary, 0  1  500  200 
+Material, 0  2  6  6 
+Labor, 0  2  2  1 
+Utilities, 0  2  2  5 
+-1,-1
+"done"
+"Note that it is possible to indicate different fixed costs and variable costs. The program will total these costs."

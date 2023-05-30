@@ -1,0 +1,24 @@
+7,1,0,1000,"Example"
+"POM-QM for Windows 3.0 Build 8"
+1,-1,.123753,-1,0,0,0
+0,1,0,0,1,0,0
+2,#TRUE#,0,0,0,0,0,0
+4,3
+""
+"$/unit (optional)"
+"Period 1"
+"Period 2"
+""
+"Output"
+"Labor hours"
+"Material (lbs)"
+"Inspection hours"
+3
+dummy, 0  0  0  0 
+Output, 0  0  10000  11000 
+Labor hours, 0  8  4000  5000 
+Material (lbs), 0  2  5000  6000 
+Inspection hours, 0  12  1000  1000 
+-1,-1
+"done"
+""

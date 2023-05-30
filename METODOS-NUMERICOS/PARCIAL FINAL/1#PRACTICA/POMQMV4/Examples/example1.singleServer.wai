@@ -1,0 +1,15 @@
+7,1,1,1000,"Example 1: The M/M/1 queue"
+"POM-QM for Windows 3.0 Build 11"
+1,1,0,0,3,0,0
+0,1,0,0,1,0,0
+4,#TRUE#,0,0,0,0,0,0
+4,1
+1
+dummy, 0  0 
+dummy, 0  1 
+Arrival rate(lambda), 0  26 
+Service rate(mu), 0  30 
+Number of servers, 0  1 
+-1,-1
+"done"
+"Notice that we have entered an arrival rate of 26 customers per hour and  a service rate of 30 customers per hour. You must use a RATE and not a TIME for both. (The service time is 2 minutes if the service rate is 30 customers per hour)."

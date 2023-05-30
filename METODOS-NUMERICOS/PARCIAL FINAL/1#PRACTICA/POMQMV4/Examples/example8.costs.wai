@@ -1,0 +1,17 @@
+7,1,5,1000,"Example 8: Costing"
+"POM-QM for Windows 3.0 Build 11"
+5,2,0,0,3,0,0
+0,1,0,0,1,0,0
+4,#TRUE#,0,0,0,0,0,0
+6,1
+1
+dummy, 0  0 
+dummy, 0  1 
+Arrival rate(lambda), 0  26 
+Service rate(mu), 0  30 
+Number of servers, 0  1 
+Server cost $/time, 0  4 
+Waiting cost $/time, 0  2 
+-1,-1
+"done"
+"Two different cost results are presented. One is for when the waiting costs are charged against the time spent waiting and the other is when the waiting costs are charged against the time spent int he system (waiting + service time)."

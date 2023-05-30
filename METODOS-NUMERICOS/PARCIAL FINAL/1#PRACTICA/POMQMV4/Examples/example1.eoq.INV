@@ -1,0 +1,19 @@
+7,1,1,1000,"Example 1"
+"POM-QM for Windows 3.0 Build 8"
+1,2,20,0,0,0,0
+0,1,0,0,1,0,0
+4,#TRUE#,0,0,0,0,0,0
+8,1
+1
+Model, 0  0 
+Demand rate(D), 0  200 
+Setup/Ordering cost(S), 0  20 
+Holding cost(H), 0  30 
+Unit cost, 0  0 
+Days per year(optional), 0  250 
+Daily demand rate(d), 0  0 
+Lead time (in days), 0  5 
+Safety stock, 0  0 
+-1,-1
+"done"
+"Be very careful when entering the holding cost. The holding cost may be gven as a fixed number, such as the $30 per unit-year displayed here or it may be given as a percent. To indicate a percent simply put a percent sign (%) at the end of the number. For example, 30% would mean 30% of the unit cost per year."

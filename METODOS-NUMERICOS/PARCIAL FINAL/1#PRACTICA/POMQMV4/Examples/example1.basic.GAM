@@ -1,0 +1,22 @@
+7,1,0,1000,"Example"
+"POM-QM for Windows 3.0 Build 14"
+1,-1,0,0,0,0,0
+0,1,0,0,1,0,0
+4,#TRUE#,0,0,0,0,0,0
+2,5
+""
+"Col strat1"
+"Col strat2"
+"Col strat3"
+"Col strat4"
+"Col strat 5"
+""
+"Row strategy 1"
+"Row strategy 2"
+5
+dummy, 0  0  0  0  0  0 
+Row strategy 1, 0  10 -12  34  75  67 
+Row strategy 2, 0  38  57  96  28 -33 
+-1,-1
+"done"
+""

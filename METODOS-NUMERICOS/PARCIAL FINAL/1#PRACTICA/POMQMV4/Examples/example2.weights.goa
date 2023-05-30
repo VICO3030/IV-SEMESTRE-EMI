@@ -1,0 +1,31 @@
+7,1,0,1000,"Example 2:  Weighted goals"
+"POM-QM for Windows 3.0 Build 11"
+1,-1,0,0,0,0,0
+0,1,0,0,1,0,0
+4,#TRUE#,0,0,0,0,0,0
+5,8
+""
+"Wt(d+)"
+"Prty(d+)"
+"Wt(d-)"
+"Prty(d-)"
+"X1"
+"X2"
+" "
+"RHS"
+""
+"Labor hours"
+"Materials"
+"Product 1 - demand"
+"Profit"
+"Product 2 - min batch size"
+8
+dummy, 0  0  0  0  0  0  0  0  0 
+Labor hours, 0  0  0  0  0  3  6  1  72 
+Materials, 0  0  0  0  0  2  1  1  30 
+Product 1 - demand, 0  1  2  1  2  1  0  2  14 
+Profit, 0  0  0  1  1  16  12  2  250 
+Product 2 - min batch size, 0  0  0  2  2  0  1  2  5 
+-1,-1
+"done"
+""

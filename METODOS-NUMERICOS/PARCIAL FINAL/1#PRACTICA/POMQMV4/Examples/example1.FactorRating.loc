@@ -1,0 +1,33 @@
+7,1,1,1000,"Example 1 - Qualitative Analysis"
+"POM-QM for Windows 3.0 Build 8"
+1,0,0,0,0,0,0
+0,1,0,0,1,0,0
+4,#TRUE#,0,0,0,0,0,0
+8,4
+""
+"  Weight"
+"Philadelphia"
+"Memphis"
+"Springfield (IL)"
+"FACTORS"
+"labor supply"
+"labor wages"
+"transportation"
+"banking"
+"computer services"
+"government"
+"unemployment"
+"Total"
+4
+FACTORS, 0  0  0  0  0 
+labor supply, 0  10  90  80  50 
+labor wages, 0  30  80  60  70 
+transportation, 0  5  60  70  50 
+banking, 0  15  90  95  90 
+computer services, 0  20  50  60  80 
+government, 0  10  40  20  5 
+unemployment, 0  5  30  50  70 
+Total, 0  95 -9876 -9876 -9876 
+-1,-1
+"done"
+""

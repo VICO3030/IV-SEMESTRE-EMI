@@ -1,0 +1,31 @@
+7,1,0,1000,"2-machine scheduling"
+"POM for Windows 3.0 Build 14"
+1,2,0,0,0,0,0
+0,0,0,0,0,0,0
+4,#TRUE#,0,0,0,0,0,0
+8,2
+""
+"Type"
+"Duplicate"
+"Johnson"
+"Harry"
+"Deb"
+"Leah"
+"Dara"
+"Art"
+"Sharon"
+"Rivka"
+"Gordon"
+2
+Johnson, 0  0  0 
+Harry, 1  20  19 
+Deb, 2  43  27 
+Leah, 3  37  38 
+Dara, 4  62  11 
+Art, 5  80  52 
+Sharon, 6  12  36 
+Rivka, 7  25  41 
+Gordon, 0  36  34 
+-1,-1
+"done"
+""

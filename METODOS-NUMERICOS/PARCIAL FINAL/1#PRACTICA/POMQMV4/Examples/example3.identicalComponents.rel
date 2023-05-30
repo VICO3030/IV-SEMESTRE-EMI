@@ -1,0 +1,14 @@
+7.2,1,4,1000,"(untitled)"
+"POM for Windows 3.2 Build 64"
+1,-1,10,-1,0,0,0
+0,1,0,0,1,0,0
+4,#TRUE#,0,0,0,0,0,0
+3,1
+1
+dummy, 0  0 
+Number of components in parallel, 0  4 
+Component reliability, 0  .5 
+System reliability, 0  0 
+-1,-1
+"done"
+""

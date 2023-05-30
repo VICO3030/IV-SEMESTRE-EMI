@@ -1,0 +1,22 @@
+7.2,1,7,1000,"Example 5: Reorder points for the Normal distribution"
+"POM for Windows 3.2 Build 62"
+1,1,0,0,0,0,0
+0,1,0,0,1,0,0
+2,#TRUE#,0,0,0,0,0,0
+5,1
+""
+"(Daily)demand (d-bar)"
+"Demand Std dev (sigma-d)"
+"Service Level %"
+"Lead time (in days) (L)"
+"Lead time std dev (sigma L)"
+1
+dummy, 0  0 
+(Daily)demand (d-bar), 0  12 
+Demand Std dev (sigma-d), 0  2 
+Service Level %, 0  95 
+Lead time (in days) (L), 0  3 
+Lead time std dev (sigma L), 0  1 
+-1,-1
+"done"
+""

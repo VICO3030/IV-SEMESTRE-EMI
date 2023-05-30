@@ -1,0 +1,22 @@
+7,1,4,1000,"Example 4: Locational Breakeven Analysis"
+"POM-QM for Windows 3.0 Build 20"
+1,-1,30000,-1,0,0,0
+0,1,0,0,1,0,0
+2,#FALSE#,0,0,0,0,0,0
+3,3
+""
+"Location 1"
+"Location 2"
+"Location 3"
+""
+"Fixed costs"
+"Variable costs"
+"Total fixed costs"
+3
+dummy, 0  0  0  0 
+Fixed costs, 0  100000  140000  188000 
+Variable costs, 0  15  14.3  13.9 
+Total fixed costs, 0  100000  140000  188000 
+-1,-1
+"done"
+""
