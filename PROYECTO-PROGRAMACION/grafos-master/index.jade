@@ -1,0 +1,57 @@
+mixin boxPrototype(title, folder)
+    -var link = folder + "/index.html"
+    div(class="col-sm-6") 
+        div(class="well")
+            legend(class="text-center")=title
+            block
+            p(class="text-center")
+                a(href=link, class="btn btn-primary") Ir al Prototipo
+
+doctype html
+html
+    head
+        meta(charset="UTF-8")
+        title Practica de Creación de Grafos
+        link(rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css")
+        link(rel="stylesheet" href="css/main.css")
+
+        script(src="bower_components/jquery/dist/jquery.js")
+        script(src="bower_components/angular/angular.min.js")
+        script(src="bower_components/bootstrap/dist/js/bootstrap.min.js")
+        script(src="bower_components/vis/dist/vis.min.js")
+        block javascripts
+            
+
+body(ng-app="app")
+    header
+        h1(class="text-center") Prototipos de Mapa de Recorridos
+        h2 Representación de Senderos, Intersecciones y Puntos de Referencia por medio de Grafos.
+    div(class="container")
+        div(class="row")
+            div(class="col")
+                div(class="row leyenda lead")
+                    include ./docs/about.jade
+                    
+        div(class="row")
+            +boxPrototype('Prototipo 1', 'app0')
+                include ./app0/objetivo.jade
+            +boxPrototype('Prototipo 2', 'app1')
+                include ./app1/objetivo.jade
+
+        div(class="row")
+            +boxPrototype('Prototipo 3', 'app2')
+                include ./app2/objetivo.jade
+            +boxPrototype('Prototipo 4', 'app3')
+                include ./app3/objetivo.jade
+
+        div(class="row")
+            +boxPrototype('Prototipo 5', 'app4')
+                include ./app4/objetivo.jade
+            +boxPrototype('Prototipo 6', 'app5')
+                include ./app5/objetivo.jade
+
+         div(class="row")
+            +boxPrototype('Prototipo 7', 'app6')
+                include ./app6/objetivo.jade
+            +boxPrototype('Prototipo 8', 'app7')
+                include ./app7/objetivo.jade

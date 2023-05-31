@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Practica de Creación de Grafos</title>
+    <link rel="stylesheet" href="../bower_components/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/main.css">
+    <script src="../bower_components/jquery/dist/jquery.js"></script>
+    <script src="../bower_components/underscore/underscore-min.js"></script>
+    <script src="../bower_components/angular/angular.min.js"></script>
+    <script src="../bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="../bower_components/vis/dist/vis.min.js"></script>
+    <script src="js/app.js"></script>
+    <script src="../js/dijkstras.js"></script>
+    <script src="js/valoresTerminal.js"></script>
+    <script src="js/redTerminal.js"></script>
+  </head>
+</html>
+<body ng-app="app" ng-controller="AppCtrl">
+  <header>
+    <h1>Creación del Mapa de Recorridos</h1>
+    <h2>Representación de Senderos, Intersecciones y Puntos de Referencia</h2>
+  </header>
+  <legend class="text-center"> Mejora en la interfaz de usuario para la creación de trayectos.</legend>
+  <div class="container">
+    <div class="well well-sm"><strong>Objetivo:</strong> El objetivo en esta version del prototipo es crear la representación de la nueva terminal.
+      <div>Se agregaron las siguientes funciones al prototipo:
+        <ul>
+          <li>Se creo grafo de la nueva terminal que es desplegado al momento de ingresar al prototipo.</li>
+          <li>Se creo la función para establecer la dirección en nodos vecinos respecto al nodo seleccionado.</li>
+          <li>Se creo la función para que el usuario suministre la orientación hacia cada nodo.</li>
+          <li>Se creo la validación de la orientación de cada nodo respecto a sus vecinos.</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+  <div style="margin: 10px;" class="row">
+    <div class="col-sm-4 col-md-3">
+      <h4 class="text-center">Controles</h4>
+      <div id="accordion" role="tablist" aria-multiselectable="true" class="panel-group">
+        <div class="panel panel-default">
+          <div role="tab" class="panel-heading">
+            <h4 class="panel-title"><a role="button" data-toggle="collapse" data-parent="#accordion" href="#trayectoria" aria-expanded="true" aria-controls="trayectoria">Trayectorias</a></h4>
+          </div>
+          <div id="trayectoria" role="tabpanel" aria-labelledby="Trayectorias" class="panel-collapse collapse">
+            <div class="panel-body">
+              <div class="row">
+                <div class="form-inline text-center">
+                  <div ng-repeat="nodo in trayecto" style="margin-bottom: 15px; display: inline-block">
+                    <input type="number" style="width: 75px;" ng-model="nodo.id" class="form-control text-center">
+                    <label><i ng-hide="($index + 1) == trayecto.length" class="glyphicon glyphicon-menu-right"></i></label>
+                  </div>
+                </div>
+              </div>
+              <div class="text-center">
+                <button ng-click="trayectoria.addField()" class="btn btn-success btn-block"> <i class="glyphicon glyphicon-plus"></i> Agregar Nodo</button>
+                <button ng-click="trayectoria.removeField()" class="btn btn-danger btn-block"> <i class="glyphicon glyphicon-minus"></i> Quitar Nodo</button>
+                <button ng-click="trayectoria.clean()" class="btn btn-info btn-block">
+                   
+                   Limpiar Trayecto
+                </button>
+                <button ng-click="trayectoria.reestablecer()" class="btn btn-warning btn-block">
+                   
+                   Reestablecer
+                </button>
+                <button ng-click="trayectoria.crear()" class="btn btn-primary btn-block"> <i class="glyphicon glyphicon-floppy-disk"></i> Crear Trayecto</button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="panel panel-default">
+          <div role="tab" class="panel-heading">
+            <h4 class="panel-title"><a role="button" data-toggle="collapse" data-parent="#accordion" href="#comportamiento" aria-expanded="true" aria-controls="trayectoria">Comportamiento</a></h4>
+          </div>
+          <div id="comportamiento" role="tabpanel" aria-labelledby="Trayectorias" class="panel-collapse collapse">
+            <div class="panel-body">
+              <div class="checkbox">
+                <label>
+                  <input type="checkbox" ng-model="comportamiento.movimiento" ng-change="comportamiento.toggleMovimiento()">Deshabilitar Movimiento de Nodos
+                </label>
+              </div>
+              <button ng-click="comportamiento.savePositions()" class="btn btn-info btn-block">Guardar posición de Nodos</button>
+              <button ng-click="comportamiento.restorePositions()" class="btn btn-info btn-block">Restaurar posición de Nodos</button>
+              <button ng-click="nodo.remove()" class="btn btn-danger btn-block">Eliminar Nodo Seleccionado</button>
+              <button ng-click="arco.remove()" class="btn btn-warning btn-block">Eliminar Arco/s Seleccionado/s</button>
+            </div>
+          </div>
+        </div>
+        <div class="panel panel-default">
+          <div role="tab" class="panel-heading">
+            <h4 class="panel-title"><a role="button" data-toggle="collapse" data-parent="#accordion" href="#distancia" aria-expanded="true" aria-controls="trayectoria">Distancia entre Nodos</a></h4>
+          </div>
+          <div id="distancia" role="tabpanel" aria-labelledby="Trayectorias" class="panel-collapse collapse">
+            <div class="panel-body">
+              <div ng-hide="nodoEdit || arcoEdit">
+                <p class="text-center">Seleccione un Nodo o Arco para editarlo.</p>
+              </div>
+              <div ng-show="nodoEdit">
+                <div class="form-group text-center"> 
+                  <label>Nodo Seleccionado: {{ nodoEdit.label }}</label>
+                </div>
+                <div class="form-group">Tipo de Nodo: </div>
+                <div class="radio">
+                  <label>
+                    <input type="radio" name="tipoNodo" ng-model="nodoEdit.tipo" value="1">Intersección
+                  </label>
+                  <div class="radio">
+                    <label>
+                      <input type="radio" name="tipoNodo" ng-model="nodoEdit.tipo" value="0">Punto de Referencia
+                    </label>
+                  </div>
+                </div>
+                <button ng-click="nodo.update()" class="btn btn-info btn-block">Aplicar</button>
+              </div>
+              <div ng-show="arcoEdit">
+                <div class="form-group text-center">
+                  <label>Arco Seleccionado desde Nodo {{ arcoEdit.from }} al {{ arcoEdit.to}}.</label>
+                </div>
+                <div class="form-group text-center">
+                  <p>La distancia entre los nodos es:</p>
+                  <input type="number" ng-model="arcoEdit.distancia" class="form-control text-center">
+                </div>
+                <div class="form-group text-center">
+                  <p>El arco representa:</p>
+                  <input type="text" ng-model="arcoEdit.infRef" placeholder="Ej: Pasillo principal" class="form-control">
+                </div>
+                <button ng-click="arco.setDistancia()" class="btn btn-primary btn-block">Aplicar</button>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="panel panel-default">
+          <div role="tab" class="panel-heading">
+            <h4 class="panel-title"><a role="button" data-toggle="collapse" data-parent="#accordion" href="#shortestPath" aria-expanded="true" aria-controls="trayectoria">Camino más Corto</a></h4>
+          </div>
+          <div id="shortestPath" role="tabpanel" aria-labelledby="Trayectorias" class="panel-collapse collapse">
+            <div class="panel-body">
+              <div class="text-center form-group">
+                <label>Nodo Inicial</label>
+                <select ng-options="item.label for item in nodes._data track by item.id" ng-model="nodoInicial" class="form-control"></select>
+              </div>
+              <div class="text-center form-group">
+                <label>Nodo Final</label>
+                <select ng-options="item.label for item in nodes._data track by item.id" ng-model="nodoFinal" class="form-control"></select>
+              </div>
+              <div class="text-center form-group">
+                <button ng-click="shortestPath()" class="btn btn-primary">Calcular Camino más Corto</button>
+              </div>
+              <div class="well well-sm text-center">
+                <h3 ng-repeat="item in camino" style="display: inline-block;">{{ item }} <i ng-hide="$index +1 == camino.length" class="glyphicon glyphicon-menu-right"></i></h3>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="panel panel-default">
+          <div role="tab" class="panel-heading">
+            <h4 class="panel-title"><a role="button" data-toggle="collapse" data-parent="#accordion" href="#orientacion" aria-expanded="true" aria-controls="trayectoria">Orientación</a></h4>
+          </div>
+          <div id="orientacion" role="tabpanel" aria-labelledby="Trayectorias" class="panel-collapse collapse">
+            <div class="panel-body">
+              <div ng-show="nodoEdit" class="form-group">
+                <legend>Nodo {{ nodoEdit.id }} conectado a:</legend>
+                <div ng-repeat="item in nodo.conexiones" class="form-group">Nodo <strong>" {{ item }} " </strong>por 
+                  <select ng-model="nodoEdit.conexiones[item]" class="form-control">
+                    <option value="izq">Izquierda</option>
+                    <option value="der">Derecha</option>
+                    <option value="arr">Arriba</option>
+                    <option value="abj">Abajo</option>
+                  </select>
+                </div>
+                <button ng-click="orientacion.updateVecinos(); orientacion.validar()" class="btn btn-primary btn-block">Guardar</button>
+              </div>
+              <p>Cada nodo tiene una conexión hacia otros, estos estan ubicados en diferentes direcciones: Izquierda, Derecha, Arriba o Abajo.</p>
+              <p>
+                <div class="info-nodo-success"></div>El Nodo tiene correctamente establecidas las direcciones respecto a sus nodos vecinos
+              </p>
+              <p>
+                <div class="info-nodo-warning"></div>Existe un conflicto en la orientación del nodo respecto a sus vecinos.
+              </p>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-8 col-md-9">
+      <div class="lead">Mapa de Recorrido:</div>
+      <div class="panel panel-default">
+        <div id="network" class="panel-body"></div>
+      </div>
+    </div>
+  </div>
+  <div style="margin: 10px" class="row">
+    <div>
+      <ul role="tablist" class="nav nav-tabs">
+        <li class="active"><a href="#modeloNodos" data-toggle="tab">Modelo de Datos para Nodos</a></li>
+        <li><a href="#modeloArcos" data-toggle="tab">Modelo de Datos para Arcos</a></li>
+      </ul>
+      <div class="tab-content">
+        <div id="modeloNodos" class="tab-pane active">
+          <pre>
+            <legend>Modelo de Datos para los Nodos</legend>{{ nodes | json }}</pre>
+        </div>
+        <div id="modeloArcos" class="tab-pane">
+          <pre>
+            <legend>Modelo de Datos para los Arcos</legend>{{ edges | json }}</pre>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>

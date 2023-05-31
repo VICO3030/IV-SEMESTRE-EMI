@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Practica de Creación de Grafos</title>
+    <link rel="stylesheet" href="../bower_components/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="../css/main.css">
+    <script src="../bower_components/jquery/dist/jquery.js"></script>
+    <script src="../bower_components/angular/angular.min.js"></script>
+    <script src="../bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="../bower_components/vis/dist/vis.min.js"></script>
+    <script src="js/app.js"></script>
+  </head>
+</html>
+<body ng-app="app">
+  <header>
+    <h1>Creación del Mapa de Recorridos</h1>
+    <h2>Representación de Senderos, Intersecciones y Puntos de Referencia</h2>
+  </header>
+  <legend class="text-center"> Creación de Grafo por medio de Trayectorias</legend>
+  <div ng-controller="AppCtrl" class="container">
+    <div class="well well-sm"><strong>Objetivo:</strong>
+    </div>
+    <div class="row">
+      <div class="well well-sm">
+        <h4 class="text-center">Controles</h4>
+        <div class="row">
+          <div class="col">
+            <h3 class="text-center">Crear Trayecto</h3>
+            <div class="form-horizontal">
+              <div ng-repeat="item in trayectoria track by $index" class="form-group">
+                <label class="col-sm-2 control-label">Nodo {{ $index + 1 }}</label>
+                <div class="col-sm-2">
+                  <input type="number" ng-model="item.id" class="form-control">
+                </div>
+              </div>
+              <div class="form-group">
+                <div class="col-sm-offset-1">
+                  <button ng-click="quitarNodo()" class="btn btn-danger"> <i class="glyphicon glyphicon-minus"></i> Quitar Nodo</button>
+                  <button ng-click="addNodo()" class="btn btn-primary"> <i class="glyphicon glyphicon-plus"></i> Agregar Nodo</button>
+                  <button ng-click="crearTrayecto()" class="btn btn-success">
+                     
+                     Crear Trayecto
+                  </button>
+                  <label>
+                    <input type="checkbox" ng-model="nodoMovimiento" ng-change="toggleMovimiento()">Habilitar Movimiento de Nodos
+                  </label>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="lead">Mapa de Recorrido:</div>
+      <div class="panel panel-default">
+        <div id="network" class="panel-body"></div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="well well-sm">
+        <h4>Modelo</h4>
+        <ul>
+          <li ng-repeat="node in nodes._data"><strong>Id: </strong>{{ node.id }}<strong>- Label:</strong>{{ node.label }}</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</body>

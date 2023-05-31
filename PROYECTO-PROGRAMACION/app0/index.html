@@ -1,0 +1,90 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Practica de Creación de Grafos</title>
+    <link rel="stylesheet" href="../css/bootstrap.min.css">   <!--esto es para los botenes ,etc-->
+    <link rel="stylesheet" href="../css/main.css">    <!--esto es para los titulos -->
+    <script src="../js/jquery.js"></script>
+    <script src="../js/angular.min.js"></script>
+    <script src="../js/bootstrap.min.js"></script>
+    <script src="../js/vis.min.js"></script>
+    <script src="js/app.js"></script>
+  </head>
+</html>
+<body ng-app="app">
+
+  <header>
+    <h1>Camino mas corto en el cableado de viviendas </h1>
+    <h2>Con representacion graafica del mapa de la zona sin acceso a internet </h2>
+  </header>
+
+  <legend class="text-center"> <strong>Mapa de tiquipaya</strong> </legend>
+  <div ng-controller="AppCtrl" class="container">
+
+
+    <div class="row"><!--container-->
+      <div class="well well-sm"><!--container de los botones y el combo box -->
+        <h4 class="text-center">Controles</h4>
+        <!--container-->
+        <div class="row">
+          <div class="col-sm-4">
+            <div class="panel panel-primary">
+              <h5 class="text-center">Nodos</h5>
+              <!--boton para crear la bolita -->
+              <div class="form-group text-center">
+                <button ng-click="nodo.add('int')" class="btn btn-primary" >Crear Intersección</button>
+
+              </div>
+
+            </div>
+          </div>
+
+          <div class="col-sm-4">
+            <div class="panel panel-primary">
+              <h5 class="text-center">Arcos</h5>
+
+
+              <!--esto es para los comobo box xd -->
+              <div class="row form-group">
+                <div class="col-xs-10">
+                  <input type="number" min="0" ng-model="arco_from" placeholder="Desde" class="form-control">
+                </div>
+                <div class="col-xs-10">
+                  <input type="number" min="0" ng-model="arco_to" placeholder="Hasta" class="form-control">
+                </div>
+              </div><!--fin combo box xd -->
+
+
+              <div class="row">
+                <div class="col text-center form-group">
+                  <button ng-click="arco.add()" class="btn btn-primary">Crear Arco</button>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+    <div class="row">
+      <div class="lead">Mapa de Recorrido:</div>
+      <div class="panel panel-default">
+        <div id="network" class="panel-body"></div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="well well-sm">
+        <h4>Modelo</h4>
+        <ul>
+          <li ng-repeat="node in nodes._data"><strong>Id: </strong>{{ node.id }}<strong>- Label:</strong>{{ node.label }}</li>
+        </ul>
+      </div>
+    </div>
+
+
+  </div>
+</body>

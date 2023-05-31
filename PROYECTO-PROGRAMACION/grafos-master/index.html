@@ -1,0 +1,140 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Practica de Creación de Grafos</title>
+    <link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
+    <link rel="stylesheet" href="css/main.css">
+    <script src="bower_components/jquery/dist/jquery.js"></script>
+    <script src="bower_components/angular/angular.min.js"></script>
+    <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="bower_components/vis/dist/vis.min.js"></script>
+  </head>
+</html>
+<body ng-app="app">
+  <header>
+    <h1 class="text-center">Prototipos de Mapa de Recorridos</h1>
+    <h2>Representación de Senderos, Intersecciones y Puntos de Referencia por medio de Grafos.</h2>
+  </header>
+  <div class="container">
+    <div class="row">
+      <div class="col">
+        <div class="row leyenda lead"><p>Este desarrollo forma parte del Proyecto Final de Grado de la carrera <strong>Ingeniería Informática</strong> 
+de la <strong>Facultad de Ingenieria - UNJu</strong>. </p>
+<p>Aquí se muestra un listado de los diferentes prototipos, cada uno con su descripción.</p>
+
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-6"> 
+        <div class="well">
+          <legend class="text-center">Prototipo 1</legend>
+          <p>Utilización de la Libreria VisJs con AngularJs para crear grafo a partir de un panel de control que permite la Generación de Nodos y Arcos.</p>
+          <p class="text-center"><a href="app0/index.html" class="btn btn-primary">Ir al Prototipo</a></p>
+        </div>
+      </div>
+      <div class="col-sm-6"> 
+        <div class="well">
+          <legend class="text-center">Prototipo 2</legend>
+          <p>El Prototipo 1 mostro la dificultad que se tiene al crear un grafo que represente el recorrido creando de forma individual los arcos y nodos, es por ello que se replanteo la forma de generación de un mapa de recorridos a traves de la generación de trayectos. Cada trayecto que se crea, es una sucesion de nodos conectados por arcos.</p>
+          <p>Además se estableció una serie de restricciones al momento de crear una trayecto:
+            <ul>
+              <li>No existe una arista que se conecte a un mismo nodo.</li>
+              <li>Entre dos nodos diferentes solo existe una arista que los une.</li>
+            </ul>
+          </p>
+          <p class="text-center"><a href="app1/index.html" class="btn btn-primary">Ir al Prototipo</a></p>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-6"> 
+        <div class="well">
+          <legend class="text-center">Prototipo 3</legend>
+          <p>En este prototipo se planteó mejorar los controles de usuario para la creación de trayectos.</p>
+          <p>Los controles que se agregan son:
+            <ul>
+              <li>Restablecer el formulario de trayecto.</li>
+              <li>Limpieza de campos del formulario para agregar nueva trayecto.</li>
+              <li>Creación rapida de N campos que representan la sucesion de nodos conectados.</li>
+              <li>Eliminación de Nodos y Arcos.</li>
+            </ul>
+          </p>
+          <p class="text-center"><a href="app2/index.html" class="btn btn-primary">Ir al Prototipo</a></p>
+        </div>
+      </div>
+      <div class="col-sm-6"> 
+        <div class="well">
+          <legend class="text-center">Prototipo 4</legend>
+          <p>En este prototipo se realizarón mejoras en la disposición de controles de usuarios para la creación del grafo que representa al mapa de recorridos.</p>
+          <p>Los controles que se agregaron fueron: 
+            <ul>
+              <li>Habilitar/Deshabilitar movimiento de Nodos</li>
+              <li>Eliminar un nodo seleccionado.</li>
+              <li>Eliminar arcos seleccionados.</li>
+            </ul>
+          </p>
+          <p class="text-center"><a href="app3/index.html" class="btn btn-primary">Ir al Prototipo</a></p>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-6"> 
+        <div class="well">
+          <legend class="text-center">Prototipo 5</legend> El objetivo en esta version del prototipo es implementar un algoritmo de la ruta mas corta entre dos nodos.
+          <div>Se agregaron las siguientes funciones al prototipo:
+            <ul>
+              <li>El usuario puede establecer el valor de la distancia que existe entre dos nodos, para ello selecciona un arco del grafo y luego establece el valor de la distancia.</li>
+              <li>El usuario puede cambiar el tipo de nodo a Intersección o Punto de Referencia, de forma predeterminada cuando un nodo es creado tiene el valor de Intersección.</li>
+              <li>Se agrego libreria para calcular el camino más corto mediante el algoritmo de Dijkstra.</li>
+            </ul>
+          </div>
+          <p class="text-center"><a href="app4/index.html" class="btn btn-primary">Ir al Prototipo</a></p>
+        </div>
+      </div>
+      <div class="col-sm-6"> 
+        <div class="well">
+          <legend class="text-center">Prototipo 6</legend>
+           El objetivo en esta version del prototipo es implementar la información referencial segun la dirección que tenga un nodo hacia sus nodos vecinos.
+           La cantidad maxima de conexiones en un nodo intersección hacia otros es de 4, las cuales estaran orientadas segun Izquierda, Derecha, Adelante, Atras.
+          <div>Se agregaron las siguientes funciones al prototipo:
+            <ul>
+              <li>Interfaz para el ingreso de información sobre las direcciones que existen desde un nodo.</li>
+              <li>Se agrego la funcion para almacenar las direciones hacia cada nodo.</li>
+            </ul>
+          </div>
+          <p class="text-center"><a href="app5/index.html" class="btn btn-primary">Ir al Prototipo</a></p>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-6"> 
+        <div class="well">
+          <legend class="text-center">Prototipo 7</legend> El objetivo en esta version del prototipo es mejorar la interfaz de usuario distribuyendo el panel de control como una barra lateral y el canvas de la red hacia el lado derecho del panel de control.
+          <div>Se agregaron las siguientes funciones al prototipo:
+            <ul>
+              <li>Organización del panel de controles y el canvas de la red, para lo cual el layout ya no lo importará desde la raíz del proyecto sino desde la carpeta del prototipo.</li>
+              <li>Se factorizo el código de la vista y se adapto al nuevo diseño en el panel lateral.</li>
+            </ul>
+          </div>
+          <p class="text-center"><a href="app6/index.html" class="btn btn-primary">Ir al Prototipo</a></p>
+        </div>
+      </div>
+      <div class="col-sm-6"> 
+        <div class="well">
+          <legend class="text-center">Prototipo 8</legend> El objetivo en esta version del prototipo es crear la representación de la nueva terminal.
+          <div>Se agregaron las siguientes funciones al prototipo:
+            <ul>
+              <li>Se creo grafo de la nueva terminal que es desplegado al momento de ingresar al prototipo.</li>
+              <li>Se creo la función para establecer la dirección en nodos vecinos respecto al nodo seleccionado.</li>
+              <li>Se creo la función para que el usuario suministre la orientación hacia cada nodo.</li>
+              <li>Se creo la validación de la orientación de cada nodo respecto a sus vecinos.</li>
+            </ul>
+          </div>
+          <p class="text-center"><a href="app7/index.html" class="btn btn-primary">Ir al Prototipo</a></p>
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
